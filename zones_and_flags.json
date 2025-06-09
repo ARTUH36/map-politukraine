@@ -3100,20 +3100,20 @@
               1432.125
             ],
             [
-              5477.6875,
-              1434.28125
+              5479.71875,
+              1433.34375
             ],
             [
-              5476.6875,
-              1436.46875
+              5483.34375,
+              1433.25
             ],
             [
-              5477.4375,
-              1437.625
+              5484.28125,
+              1435.375
             ],
             [
-              5478.59375,
-              1439
+              5482.40625,
+              1439.375
             ],
             [
               5479.4375,
@@ -4241,8 +4241,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5476.5625,
-          1433.5
+          5479.25,
+          1438.625
         ]
       },
       "properties": {
@@ -4271,8 +4271,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5468.875,
-          1434.0625
+          5478.375,
+          1437.09375
         ]
       },
       "properties": {
@@ -4286,8 +4286,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5469.4375,
-          1437
+          5478.0625,
+          1441.15625
         ]
       },
       "properties": {
@@ -4301,8 +4301,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5472,
-          1438.3125
+          5480.75,
+          1438.40625
         ]
       },
       "properties": {
@@ -4316,8 +4316,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5473.375,
-          1440
+          5481.875,
+          1437.28125
         ]
       },
       "properties": {
@@ -4496,8 +4496,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5471.59375,
-          1434.96875
+          5478.09375,
+          1440.125
         ]
       },
       "properties": {
@@ -4781,8 +4781,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5470.65625,
-          1433.4375
+          5478.4375,
+          1434.53125
         ]
       },
       "properties": {
@@ -4796,8 +4796,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5473.59375,
-          1433.78125
+          5481.375,
+          1435.3125
         ]
       },
       "properties": {
@@ -5216,8 +5216,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5473.125,
-          1431.96875
+          5479.5625,
+          1435.96875
         ]
       },
       "properties": {
@@ -5231,8 +5231,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5472.8125,
-          1434.9375
+          5483.53125,
+          1434.8125
         ]
       },
       "properties": {
@@ -5246,8 +5246,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5473.0625,
-          1436.6875
+          5480.65625,
+          1433.875
         ]
       },
       "properties": {
@@ -5261,8 +5261,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5473.40625,
-          1437.59375
+          5482.21875,
+          1433.96875
         ]
       },
       "properties": {
@@ -5276,8 +5276,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5474,
-          1438.6875
+          5483.1875,
+          1435.90625
         ]
       },
       "properties": {
@@ -5396,8 +5396,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5467.25,
-          1436.5625
+          5476.4375,
+          1434.5625
         ]
       },
       "properties": {
@@ -6071,8 +6071,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5475.0625,
-          1433.8125
+          5480.34375,
+          1437.25
         ]
       },
       "properties": {
@@ -6656,8 +6656,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5481.4375,
-          1437.53125
+          5486.90625,
+          1434.65625
         ]
       },
       "properties": {
@@ -6686,8 +6686,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5481.1875,
-          1439
+          5485.40625,
+          1438.09375
         ]
       },
       "properties": {
@@ -6806,38 +6806,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5477.875,
+          5484,
+          1438.8125
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Communist Philippines First Army"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5485.1875,
+          1436.40625
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Communist Philippines First Army"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5486.46875,
           1436.34375
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,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",
-        "occupier": "Communist Philippines First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5478.3125,
-          1437.84375
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,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",
-        "occupier": "Communist Philippines First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5483.25,
-          1438.21875
         ]
       },
       "properties": {
@@ -7226,8 +7226,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5479.65625,
-          1434.09375
+          5486.0625,
+          1431.25
         ]
       },
       "properties": {
@@ -7241,8 +7241,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5480.34375,
-          1436.90625
+          5487.34375,
+          1432.125
         ]
       },
       "properties": {
@@ -7256,8 +7256,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5480.125,
-          1438.1875
+          5485.46875,
+          1434
         ]
       },
       "properties": {
@@ -7331,8 +7331,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5479.125,
-          1436.25
+          5484.53125,
+          1437.21875
         ]
       },
       "properties": {
@@ -8606,6 +8606,231 @@
         "type": "marker",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtBAMAAACkQhyrAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJUExURQD/NwzMOgAAAAxdqZ4AAAAJcEhZcwAADsMAAA7DAcdvqGQAAABpSURBVHja7c4BCQAgEAAxK1jh+4eUS/EIW4IdAAAAAAAAAAAAAOAnd92ZdQpRiEIUohCFKEQhClGIQhSiEIUoRCEKUYhCFKIQhShEIQpRiEIUohCFKEQhClGIQhSiEIUoRCEKUch6YeYBZVDVxp5yFRMAAAAASUVORK5CYII=",
         "occupier": "Слізеринська Друга Армія "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5484.46875,
+          1433.0625
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Communist Philippines First Army"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5486,
+          1432.90625
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Communist Philippines First Army"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5488.5,
+          1434.5
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Communist Philippines First Army"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5489.25,
+          1435
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACCCAMAAACXSEZJAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAADVUExURfTT1dEuO8sAAM4RJv///+qusswAD+GIjc0AHfnm59lfZu/BxM0SKfz09d9/hNZRWuafo9xudf7zzdZETP700/zTJv/++f3mmPzMAPzPAP/55v3onv7uu+SUmfzUM/zRFv3ecv3aWv7rrP3lkf/77/722/3cZf3jiP7ssv/66f///PzXSPzWQP7xx/3hgP7wwsvR6DhUsQA1pxU4p+js9mN2vwAgogA4qImWzAAopAAupay229rf75un1L3E4hpBrEhgtvL1+nmIxiVHrVhsuwAYoQAOn6un82MAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAbjSURBVHhe5Z1td5NIFICrjq+1u24MhAtsIIQk5KWh1mqt0bpa3f//k3aACyRhhkxo1zMvjx8SPO3p4cncy70zEzg5efT4iemcEPL02TM8MBUqgZDnj1/goZnkEsjLV0bHRCGBkNPXBmsoJdDU8NjY1FBLIGd/mJoatiTQ1PCnmTGxIyFLDSbGxJ4EQt4YGBMNCeTsL+M0oIRe8VJw8taw1IAS+padvdiD/IicvjAqNZTh4IBLiOf4eEj+NikmSglDAC8AwCPK2StzNJQSQgjoP4yGAnOabJRgjyAIAsgTQ81TQ1JDISGCzEEA4/xoCzOa7ExC33IKCQGExbnX0CZbfw2ZhHjSi8YWVQDgTItz3+JU/9RQJkYyA/Bjt+f38XgL7effKgk+DPFdE92b7EpC7CT4joXeTXYlgVj4yuH0kb4xUUuY4CuXN9qmhlrCYbRNDcdIoJW0nqnhOAmazr8dK4E22c+0i4njJWg4/9ZBgn7zb50k0Er6iU6poaMEcqZTk91VglZNdncJGjXZ95FAK2k95t/uJ0GTSlpYAq+/ok228hpEJSROhO8aqN9kC0qInQDm+L7JG8UraTEJdgwBxHurElsoXkkLSRgnCyrBThrLEjVKV9IiEhbgkSAIyAAW+D8sFG6yhUbCMiRDsEi4xGMOyjbZQhJmS7KCIVnO8JjHS0VTA1uCn/SJ653jEfGBjGBJgmr3Qs9zST+pDmvUTA1sCQDQJ1OnvCi6zmIKIXHc6nhK+gABHu6gYpPNlpCtzc6JVeUAmIcwm1d5cTkkLgQBe6Xi7LlyqYETDvSKaNluVSWuemMY91Z4FDmubdGfYIRDjnJNNicx0sFOk4BfBsQ6iRwvwbzoOj7Nk1nAcFFskwtTgj0mcwtgStb44SfjxPHX+Mmv1mQKYM3JmF9CqtVkMyUsnJG9oB/2mgy9/D/mo9RJp0Ve9IZkTYfJwh45LRKUarLZ4XCeXx0APDtrm+w0BCuwgjClZ+2C7WWDhAZMdQllo06TzckJduh42Qee9laLAY3/YjMPBIPFqpcCzIjnhG3joECV+TeOhGwwjLL9XBNqIjdQQENkAhDR2unAMEDUWMnmSqCDAdzzbQElcO6CwDAoUKLJ5ksgJAXfa1oAz4cUf0IEBVay2yQQe8ocCVPRYYBI32S3SqAXCDzxbeilQRgsLSRvslsl9B08713aasVd0rL7kDs1NCVEaTWjyhwIVEK573Xhppwtb3YeMTG9wpTI3GQ3JETgODAa+y5tGdkOqIUFsSfJbJn9KHsmfrEM/ZgstyTI3GQzwiGepN56ZVnLkCshXAbBau2lkxh/p4FLK6wh7EiQd7v4noQoHERJOpnMF3Y8H3AleHFs2/NJP02iQcgeC1H+y1ayo0nSJntXgufQDxCxVsP8jFkMV9lu8JKiydqnSCh0METbHk7ePnktHb9bwsW7y/fS8XvD4erDx8tr+fitifHTzWf8s3LRkPD/XSI31zf4R2WjORK2iiXOUKjq5mOKpS/vpIyEHEY41Dxc2SxpMkBaJTxYA/VV0mSAtEp4oFb69pusyQBpk3DOnVQRm1sr+PKPzJGQw5eA02sWnnuJddz02vcf0itokfAwE61fP0udDBCOBDt0IjIDZ2/KHbIpd194yv32ToFhQGFLqBdfstVI21/TKLCCtU/PW3zx5ctPNRRwJOTLcMtsGc4qCsIOy3DfP31UIRJymBLqBVksdo5fkN1cKqOAmxOKpfmk69L8hcQ1MgO2hPtt0pC7RmbAlpBdCtq261gt23VUSgYIW0I+2Pkbt+YtG7c27yWvkRlwwqHrFj7FkgHCSYy7iG7mVC4ZIEISBLf1yjp7dhARCWIbvKVvmPkIjQSBrf4KNMx8hCQc/NKHEg0zHzEJ2dd/qgtmE8lnzw4iKKHti2C3d8omA0RUAvcrgUonA0RYAhuaDNSOhJz7SVBj9uwg95FwcXejfCTkdJdwpczs2UG6SlCwYebTUYK8K8xd6CRB5hXmLnSQoGrDzOd4CarXyAyOlaBww8znOAk61MgMjpGgeMPMp5Zw8KaUGiYDpJZw4Pak6jfMfCoJ7TeqVWeFuQuVhLZbFuvRMPOpJLTcvHqjR8PMJ5PQfhvzC0W2m9yDTMLWDe3XxYnX6FcjMyjCgftoA50aZj6YE9gPudh81veyuE2ZGBmPO1FzhbkLpYTGg2+uPvwyREEtYf8RSGYkAwQl7D0M6/bSjGSAoISdx6LpNnt2kDIcar7/MCcZIA0JX38ZlAyQPQlazp4dZEfClZ6zZwfZkmBgMkBqCRuTKoNdSgkXRiYDpJBw9dPUSMjJJXz619hIyKESNjcGR0LOycXdR3xrKtfX/wGHCePvTRSJwAAAAABJRU5ErkJggg==",
+        "occupier": "Communist Philippines First Army"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5489.90625,
+          1432.5
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Communist Philippines First Army"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5489.65625,
+          1431.40625
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Communist Philippines First Army"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5488.9375,
+          1428.90625
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Communist Philippines First Army"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5488.90625,
+          1428.03125
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Communist Philippines First Army"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5483.875,
+          1430.1875
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Communist Philippines First Army"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5483.03125,
+          1429.53125
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Communist Philippines First Army"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5482.75,
+          1428.625
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Communist Philippines First Army"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5482.78125,
+          1441.1875
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Communist Philippines First Army"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5482.1875,
+          1442.34375
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Communist Philippines First Army"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5481.875,
+          1443.5625
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Communist Philippines First Army"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5482.1875,
+          1445.0625
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Communist Philippines First Army"
       }
     }
   ]
