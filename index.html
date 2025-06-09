@@ -1,138 +1,35 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Карта з зонами окупації та прапорами</title>
+  <title>Карта (тільки перегляд)</title>
   <meta charset="utf-8" />
   <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet-draw/dist/leaflet.draw.css" />
   <style>
     #map { width: 100%; height: 600px; }
-    #buttons { margin: 10px; }
-    button { padding: 5px 10px; margin-right: 10px; }
   </style>
 </head>
 <body>
   <div id="map"></div>
-  <div id="buttons">
-    <label><input type="checkbox" id="editMode"> ✏️ Режим редагування</label>
-    <label><input type="checkbox" id="flagAddMode"> 🏳️ Режим додавання прапора</label>
-    <button id="selectFlag">🖼️ Обрати зображення прапора</button>
-    <input type="file" id="flagFile" accept="image/*" style="display:none" />
-    <button id="save">💾 Зберегти GeoJSON у файл</button>
-  </div>
 
   <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-  <script src="https://unpkg.com/leaflet-draw/dist/leaflet.draw.js"></script>
   <script>
-    var imageWidth = 6460;
-    var imageHeight = 3403;
+    const imageWidth = 6460;
+    const imageHeight = 3403;
 
-    var map = L.map('map', {
+    const map = L.map('map', {
       crs: L.CRS.Simple,
       minZoom: 0,
       maxZoom: 5,
-      zoomControl: true,
+      zoomControl: true
     });
 
-    var bounds = [[0, 0], [imageHeight, imageWidth]];
-    var image = L.imageOverlay('your_image.png', bounds).addTo(map);
-    map.fitBounds(bounds);
+    const bounds = [[0, 0], [imageHeight, imageWidth]];
+    const image = L.imageOverlay('your_image.png', bounds).addTo(map);
+    map.setView([1900, 4000], 2.8); // Це приблизно десь над Україною
 
-    var drawnItems = new L.FeatureGroup();
+
+    const drawnItems = new L.FeatureGroup();
     map.addLayer(drawnItems);
-
-    var drawControl = new L.Control.Draw({
-      draw: {
-        polyline: false,
-        rectangle: false,
-        circle: false,
-        marker: false,
-        circlemarker: false,
-        polygon: {
-          allowIntersection: false,
-          showArea: true,
-          shapeOptions: {
-            color: '#0077ff',
-            fillOpacity: 0.4
-          }
-        }
-      },
-      edit: {
-        featureGroup: drawnItems,
-        edit: true,
-        remove: true
-      }
-    });
-    map.addControl(drawControl);
-
-    map.on(L.Draw.Event.CREATED, function (e) {
-      var layer = e.layer;
-      var zoneName = prompt("Введи назву зони:");
-      var occupier = prompt("Хто окупував цю зону?");
-      var color = prompt("Введи колір зони у форматі hex (#rrggbb):", "#0077ff");
-
-      if (!zoneName || !occupier || !color) return;
-
-      layer.setStyle({ color: color });
-
-      layer.feature = {
-        type: "Feature",
-        properties: {
-          name: zoneName,
-          occupier: occupier,
-          color: color,
-          type: "polygon"
-        }
-      };
-
-      layer.bindPopup("🗺️ <b>" + zoneName + "</b><br>🚩 Окупант: <b>" + occupier + "</b>");
-      drawnItems.addLayer(layer);
-    });
-
-    function downloadJSON(data, filename) {
-      var blob = new Blob([data], {type: 'application/json'});
-      var url = URL.createObjectURL(blob);
-      var a = document.createElement('a');
-      a.href = url;
-      a.download = filename;
-      a.click();
-      URL.revokeObjectURL(url);
-    }
-
-    document.getElementById('save').onclick = function() {
-      var geojson = {
-        type: "FeatureCollection",
-        features: []
-      };
-
-      drawnItems.eachLayer(function(layer) {
-        if (layer instanceof L.Marker) {
-          var pos = layer.getLatLng();
-          geojson.features.push({
-            type: "Feature",
-            geometry: {
-              type: "Point",
-              coordinates: [pos.lng, pos.lat]
-            },
-            properties: {
-              type: "marker",
-              icon: layer.feature?.properties?.icon || '',
-              occupier: layer.feature?.properties?.occupier || ''
-            }
-          });
-        } else if (layer instanceof L.Polygon) {
-          var json = layer.toGeoJSON();
-          json.properties.name = layer.feature?.properties?.name || '';
-          json.properties.occupier = layer.feature?.properties?.occupier || '';
-          json.properties.color = layer.feature?.properties?.color || '#0077ff';
-          geojson.features.push(json);
-        }
-      });
-
-      var jsonString = JSON.stringify(geojson, null, 2);
-      downloadJSON(jsonString, 'zones_and_flags.json');
-      alert('Файл zones_and_flags.json збережено!');
-    };
 
     function loadGeoJSON(geojson) {
       drawnItems.clearLayers();
@@ -140,19 +37,17 @@
       L.geoJSON(geojson, {
         pointToLayer: function(feature, latlng) {
           if (feature.properties.type === "marker") {
-            var icon = L.icon({
+            const icon = L.icon({
               iconUrl: feature.properties.icon,
               iconSize: [32, 20],
               iconAnchor: [16, 10],
               popupAnchor: [0, -10]
             });
-            var marker = L.marker(latlng, { icon: icon, draggable: true });
+
+            const marker = L.marker(latlng, { icon: icon });
             marker.feature = feature;
+
             marker.bindPopup("🏳️ <b>" + (feature.properties.occupier || 'Невідомо') + "</b>");
-            marker.on('dragend', function(e) {
-              var latlng = e.target.getLatLng();
-              marker.feature.geometry.coordinates = [latlng.lng, latlng.lat];
-            });
             drawnItems.addLayer(marker);
             return marker;
           }
@@ -160,9 +55,12 @@
         },
         onEachFeature: function(feature, layer) {
           if (feature.geometry.type === "Polygon") {
-            var color = feature.properties.color || "#0077ff";
-            layer.setStyle({ color: color, fillOpacity: 0.4 });
-            layer.feature = feature;
+            const color = feature.properties.color || '#0077ff';
+            layer.setStyle({
+              color: color,
+              fillOpacity: 0.4
+            });
+
             layer.bindPopup("🗺️ <b>" + feature.properties.name + "</b><br>🚩 Окупант: <b>" + feature.properties.occupier + "</b>");
             drawnItems.addLayer(layer);
           }
@@ -170,217 +68,21 @@
       });
     }
 
-    let selectedFlagIconUrl = null;
-
-    document.getElementById('selectFlag').onclick = () => {
-      document.getElementById('flagFile').click();
-    };
-
-    document.getElementById('flagFile').addEventListener('change', function() {
-      const file = this.files[0];
-      if (!file) return;
-      const reader = new FileReader();
-      reader.onload = function(e) {
-        selectedFlagIconUrl = e.target.result;
-      };
-      reader.readAsDataURL(file);
-    });
-
-    map.on('click', function(e) {
-      if (!document.getElementById('flagAddMode').checked || !selectedFlagIconUrl) return;
-
-      const occupierName = prompt("Назва цієї фракції / країни:");
-      const icon = L.icon({
-        iconUrl: selectedFlagIconUrl,
-        iconSize: [32, 20],
-        iconAnchor: [16, 10],
-        popupAnchor: [0, -10]
-      });
-
-      const marker = L.marker(e.latlng, { icon: icon, draggable: true })
-        .bindPopup("🏳️ <b>" + occupierName + "</b>");
-
-      marker.feature = {
-        type: "Feature",
-        geometry: {
-          type: "Point",
-          coordinates: [e.latlng.lng, e.latlng.lat]
-        },
-        properties: {
-          type: "marker",
-          icon: selectedFlagIconUrl,
-          occupier: occupierName
-        }
-      };
-
-      marker.on('dragend', function(e) {
-        const latlng = e.target.getLatLng();
-        marker.feature.geometry.coordinates = [latlng.lng, latlng.lat];
-      });
-
-      drawnItems.addLayer(marker);
-    });
-
-    // --- Ctrl+C / Ctrl+V для прапорів ---
-    let copiedFlag = null;
-    let lastMouseLatLng = null;
-
-    map.on('mousemove', function(e) {
-      lastMouseLatLng = e.latlng;
-    });
-
-    document.addEventListener('keydown', function(e) {
-      if (e.ctrlKey && e.key.toLowerCase() === 'c') {
-        const selectedLayers = [];
-        drawnItems.eachLayer(layer => {
-          if (layer instanceof L.Marker && layer._icon && layer._icon.classList.contains('leaflet-marker-icon-clicked')) {
-            selectedLayers.push(layer);
-          }
-        });
-        if (selectedLayers.length === 1) {
-          copiedFlag = selectedLayers[0];
-          e.preventDefault();
-        }
-      }
-
-      if (e.ctrlKey && e.key.toLowerCase() === 'v') {
-        if (copiedFlag && lastMouseLatLng) {
-          const icon = L.icon({
-            iconUrl: copiedFlag.feature.properties.icon,
-            iconSize: [32, 20],
-            iconAnchor: [16, 10],
-            popupAnchor: [0, -10]
-          });
-
-          const marker = L.marker(lastMouseLatLng, { icon: icon, draggable: true })
-            .bindPopup("🏳️ <b>" + copiedFlag.feature.properties.occupier + "</b>");
-
-          marker.feature = JSON.parse(JSON.stringify(copiedFlag.feature));
-          marker.feature.geometry.coordinates = [lastMouseLatLng.lng, lastMouseLatLng.lat];
-
-          marker.on('dragend', function(e) {
-            const latlng = e.target.getLatLng();
-            marker.feature.geometry.coordinates = [latlng.lng, latlng.lat];
-          });
-
-          drawnItems.addLayer(marker);
-          e.preventDefault();
-        }
-      }
-    });
-
-    drawnItems.on('layeradd', function(e) {
-      let layer = e.layer;
-      if (layer instanceof L.Marker) {
-        layer.on('click', function(ev) {
-          drawnItems.eachLayer(l => {
-            if (l instanceof L.Marker && l._icon)
-              l._icon.classList.remove('leaflet-marker-icon-clicked');
-          });
-          if (layer._icon) layer._icon.classList.add('leaflet-marker-icon-clicked');
-        });
-      }
-    });
-
+    // Завантаження при старті
     window.addEventListener('load', () => {
       fetch('zones_and_flags.json')
         .then(response => {
-          if (!response.ok) throw new Error(`Не вдалося завантажити файл: ${response.status} ${response.statusText}`);
+          if (!response.ok) {
+            throw new Error(`Не вдалося завантажити файл: ${response.status} ${response.statusText}`);
+          }
           return response.json();
         })
-        .then(data => {
-          loadGeoJSON(data);
-          saveState();
-        })
+        .then(data => loadGeoJSON(data))
         .catch(error => {
           console.error("Помилка при завантаженні GeoJSON:", error);
           alert("⚠️ Не вдалося завантажити зони та прапори з файлу 'zones_and_flags.json'.");
         });
     });
-
-    // Undo / Redo
-    let history = [];
-    let future = [];
-
-    function saveState() {
-      const geojson = {
-        type: "FeatureCollection",
-        features: []
-      };
-
-      drawnItems.eachLayer(function(layer) {
-        if (layer instanceof L.Marker) {
-          const pos = layer.getLatLng();
-          geojson.features.push({
-            type: "Feature",
-            geometry: {
-              type: "Point",
-              coordinates: [pos.lng, pos.lat]
-            },
-            properties: {
-              type: "marker",
-              icon: layer.feature?.properties?.icon || '',
-              occupier: layer.feature?.properties?.occupier || ''
-            }
-          });
-        } else if (layer instanceof L.Polygon) {
-          const json = layer.toGeoJSON();
-          json.properties.name = layer.feature?.properties?.name || '';
-          json.properties.occupier = layer.feature?.properties?.occupier || '';
-          json.properties.color = layer.feature?.properties?.color || '#0077ff';
-          geojson.features.push(json);
-        }
-      });
-
-      history.push(JSON.stringify(geojson));
-      if (history.length > 50) history.shift();
-      future = [];
-    }
-
-    function restoreState(stateStr) {
-      const geojson = JSON.parse(stateStr);
-      drawnItems.clearLayers();
-      loadGeoJSON(geojson);
-    }
-
-    function undo() {
-      if (history.length > 1) {
-        future.push(history.pop());
-        const prevState = history[history.length - 1];
-        restoreState(prevState);
-      }
-    }
-
-    function redo() {
-      if (future.length > 0) {
-        const nextState = future.pop();
-        history.push(nextState);
-        restoreState(nextState);
-      }
-    }
-
-    document.addEventListener("keydown", function (e) {
-      if (e.ctrlKey && e.key.toLowerCase() === "z") {
-        e.preventDefault();
-        undo();
-      } else if (e.ctrlKey && e.key.toLowerCase() === "y") {
-        e.preventDefault();
-        redo();
-      }
-    });
-
-    map.on(L.Draw.Event.CREATED, function (e) {
-      saveState();
-    });
-
-    drawnItems.on('layeradd', function(e) {
-      saveState();
-    });
-
-    drawnItems.on('layerremove', function(e) {
-      saveState();
-    });
-
   </script>
 </body>
 </html>
