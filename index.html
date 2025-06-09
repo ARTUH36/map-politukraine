@@ -27,7 +27,6 @@
     const image = L.imageOverlay('your_image.png', bounds).addTo(map);
     map.setView([2250, 3800], 2); // Це приблизно десь над Україною
 
-
     const drawnItems = new L.FeatureGroup();
     map.addLayer(drawnItems);
 
@@ -68,9 +67,9 @@
       });
     }
 
-    // Завантаження при старті
+    // Завантаження при старті (з вимкненням кешу)
     window.addEventListener('load', () => {
-      fetch('zones_and_flags.json')
+      fetch(`zones_and_flags.json?nocache=${Date.now()}`)
         .then(response => {
           if (!response.ok) {
             throw new Error(`Не вдалося завантажити файл: ${response.status} ${response.statusText}`);
