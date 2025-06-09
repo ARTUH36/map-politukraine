@@ -7802,51 +7802,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4389.375,
-          3214
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "1-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4311.75,
-          3199.75
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "1-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4129.25,
-          3201.75
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "1-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           6350.75,
           2334.75
         ]
@@ -9032,6 +8987,278 @@
         "type": "marker",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
         "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Острів ОУ-1, Окуповано 14.02.25",
+        "occupier": "Сибір",
+        "color": "#ff0000",
+        "type": "polygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4648.21875,
+              3207.40625
+            ],
+            [
+              4653.0625,
+              3207.625
+            ],
+            [
+              4656.5625,
+              3207.5625
+            ],
+            [
+              4659.28125,
+              3208.65625
+            ],
+            [
+              4661.46875,
+              3208.34375
+            ],
+            [
+              4664.15625,
+              3208.625
+            ],
+            [
+              4666.03125,
+              3208.6875
+            ],
+            [
+              4667.8125,
+              3209.53125
+            ],
+            [
+              4670.65625,
+              3209.4375
+            ],
+            [
+              4672.65625,
+              3211.34375
+            ],
+            [
+              4672.875,
+              3212.71875
+            ],
+            [
+              4671,
+              3213.125
+            ],
+            [
+              4669.09375,
+              3213.4375
+            ],
+            [
+              4664.75,
+              3213.71875
+            ],
+            [
+              4663.1875,
+              3214.125
+            ],
+            [
+              4662,
+              3214.59375
+            ],
+            [
+              4657.5625,
+              3214.6875
+            ],
+            [
+              4656.375,
+              3213.5625
+            ],
+            [
+              4653.25,
+              3213.5
+            ],
+            [
+              4651.03125,
+              3213.6875
+            ],
+            [
+              4649.84375,
+              3212.78125
+            ],
+            [
+              4648.625,
+              3211.375
+            ],
+            [
+              4646.96875,
+              3210.21875
+            ],
+            [
+              4646.78125,
+              3208.875
+            ],
+            [
+              4648.21875,
+              3207.40625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Острів ОУ-1, Окуповано 14.02.25",
+        "occupier": "Сибір",
+        "color": "#ff0000",
+        "type": "polygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4605.5,
+              3152.625
+            ],
+            [
+              4611.6875,
+              3152.8125
+            ],
+            [
+              4615,
+              3153.25
+            ],
+            [
+              4618.53125,
+              3153.53125
+            ],
+            [
+              4621.75,
+              3153.375
+            ],
+            [
+              4622.53125,
+              3154.375
+            ],
+            [
+              4621.78125,
+              3155.25
+            ],
+            [
+              4619.6875,
+              3155.5
+            ],
+            [
+              4617.75,
+              3155.53125
+            ],
+            [
+              4616.75,
+              3156.28125
+            ],
+            [
+              4614.34375,
+              3156.6875
+            ],
+            [
+              4612.625,
+              3156.84375
+            ],
+            [
+              4611.28125,
+              3157.625
+            ],
+            [
+              4608.9375,
+              3157.78125
+            ],
+            [
+              4607.875,
+              3157.875
+            ],
+            [
+              4607.875,
+              3158.375
+            ],
+            [
+              4605.1875,
+              3158.65625
+            ],
+            [
+              4603.28125,
+              3159.0625
+            ],
+            [
+              4601.9375,
+              3159.65625
+            ],
+            [
+              4600.59375,
+              3158.90625
+            ],
+            [
+              4599.09375,
+              3157.9375
+            ],
+            [
+              4597.59375,
+              3158.90625
+            ],
+            [
+              4596.9375,
+              3160.53125
+            ],
+            [
+              4595.625,
+              3160.90625
+            ],
+            [
+              4594.78125,
+              3159.90625
+            ],
+            [
+              4594.5,
+              3158.8125
+            ],
+            [
+              4595.46875,
+              3157.3125
+            ],
+            [
+              4597.09375,
+              3156.15625
+            ],
+            [
+              4597.84375,
+              3156.5
+            ],
+            [
+              4598.46875,
+              3155.59375
+            ],
+            [
+              4601.46875,
+              3155.34375
+            ],
+            [
+              4604.46875,
+              3155.46875
+            ],
+            [
+              4605.40625,
+              3155.0625
+            ],
+            [
+              4605.25,
+              3153.96875
+            ],
+            [
+              4605.5,
+              3152.625
+            ]
+          ]
+        ]
       }
     }
   ]
