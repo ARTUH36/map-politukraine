@@ -2985,8 +2985,16 @@
               1449.625
             ],
             [
-              5485.125,
-              1451.96875
+              5487.03125,
+              1449.4375
+            ],
+            [
+              5487.625,
+              1452.21875
+            ],
+            [
+              5487.53125,
+              1454.65625
             ],
             [
               5485.03125,
@@ -4014,51 +4022,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5461.3125,
-          1401.75
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "2-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5459.375,
-          1405.75
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "2-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5458,
-          1409.375
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "2-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5478.25,
           1405.25
         ]
@@ -4344,21 +4307,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5480.5625,
-          1399.375
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "2-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5480.375,
           1396.625
         ]
@@ -4376,111 +4324,6 @@
         "coordinates": [
           5480,
           1395.75
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "2-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5476.375,
-          1401.8125
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "2-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5471.9375,
-          1402.625
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "2-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5469.375,
-          1401.25
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "2-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5469.75,
-          1398.8125
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "2-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5466.6875,
-          1406
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "2-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5464.65625,
-          1408.90625
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "2-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5464.1875,
-          1410.875
         ]
       },
       "properties": {
@@ -4751,111 +4594,6 @@
         "coordinates": [
           5473.65625,
           1406.625
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,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",
-        "occupier": "Philippino First Armee"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5474.8125,
-          1404.40625
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,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",
-        "occupier": "Philippino First Armee"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5478.59375,
-          1403.09375
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,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",
-        "occupier": "Philippino First Armee"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5481.78125,
-          1404.0625
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,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",
-        "occupier": "Philippino First Armee"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5480.09375,
-          1401.71875
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,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",
-        "occupier": "Philippino First Armee"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5478.625,
-          1400.96875
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,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",
-        "occupier": "Philippino First Armee"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5475.1875,
-          1401.78125
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,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",
-        "occupier": "Philippino First Armee"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5473.28125,
-          1404.25
         ]
       },
       "properties": {
@@ -5964,8 +5702,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5483.84375,
-          1454.5
+          5486.34375,
+          1452.71875
         ]
       },
       "properties": {
@@ -5979,8 +5717,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5483.96875,
-          1452.6875
+          5486.0625,
+          1450.28125
         ]
       },
       "properties": {
@@ -6819,23 +6557,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5486.09375,
-          1454.21875
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,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",
-        "occupier": "Communist Philippines First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           5486.90625,
-          1445.8125
+          1455.96875
         ]
       },
       "properties": {
@@ -6849,8 +6572,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5487.15625,
-          1450.53125
+          5485.84375,
+          1455.875
         ]
       },
       "properties": {
@@ -6864,8 +6587,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5483.46875,
-          1426.625
+          5488.625,
+          1451.71875
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Communist Philippines First Army"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5481.4375,
+          1426.3125
         ]
       },
       "properties": {
@@ -6909,8 +6647,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5485.90625,
-          1423.46875
+          5480.6875,
+          1423.28125
         ]
       },
       "properties": {
@@ -6924,8 +6662,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5485.65625,
-          1451.0625
+          5488.5,
+          1453.59375
         ]
       },
       "properties": {
@@ -6954,8 +6692,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5484.53125,
-          1449.625
+          5488.15625,
+          1449.34375
         ]
       },
       "properties": {
@@ -7104,8 +6842,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5480.34375,
-          1436.90625
+          5487.1875,
+          1457.0625
         ]
       },
       "properties": {
@@ -7119,8 +6857,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5480.125,
-          1438.1875
+          5486.3125,
+          1447.6875
         ]
       },
       "properties": {
@@ -7284,8 +7022,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5485.65625,
-          1449.6875
+          5486.15625,
+          1448.59375
         ]
       },
       "properties": {
@@ -8566,8 +8304,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5485.8125,
-          1443.03125
+          5483.53125,
+          1446.625
         ]
       },
       "properties": {
@@ -8686,8 +8424,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5481.3125,
-          1438.8125
+          5487.5,
+          1448.4375
         ]
       },
       "properties": {
@@ -8731,8 +8469,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5486.90625,
-          1452.09375
+          5488.25,
+          1455.03125
         ]
       },
       "properties": {
@@ -8776,8 +8514,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5487.40625,
-          1442.625
+          5487.5,
+          1447.53125
         ]
       },
       "properties": {
@@ -8791,8 +8529,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5482.125,
-          1437
+          5488.40625,
+          1450.625
         ]
       },
       "properties": {
@@ -8806,8 +8544,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5480.90625,
-          1435.59375
+          5488.6875,
+          1452.65625
         ]
       },
       "properties": {
@@ -8821,14 +8559,164 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5481.53125,
-          1434.34375
+          5484.625,
+          1447.65625
         ]
       },
       "properties": {
         "type": "marker",
         "icon": "data:image/png;base64,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",
         "occupier": "Communist Philippines First Army"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5486.5625,
+          1451.3125
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Pakistan Second Armee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5483.40625,
+          1455.4375
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Pakistan Second Armee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5484.65625,
+          1454.875
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAgVBMVEUBQRz///8APxj4+fgjSSsAMAAANAAAKwAAPRQAMgAALQAAOg0ANgAAOxEAKQAAOAfu8vDh5+MfTCzCzMW2wrra4Nx9koMnUTI8XkWuubFfeGWbqp/n7eoAIgBGZk7O1dBqgXCMn5IyWj4WRiNPbVd0inl4iHsAHAAAGQA9WUKJl4y6Es5DAAAHOElEQVR4nO2d2XajOBBAC3nYwXjFxtBgYju9/P8HDijENluMlkjknLpP3Q8U5EZIVZJQwBBk8R+BHw9KAJRAQQmAEigoAVACBSUASqCgBEAJFJQAKIGCEgAlUFACoAQKSgCUQEEJgBIoKAFQAgUlAEqgoARACRSUACiBghIAJVBQAqAECkoAlEBBCTA/CU4gNdw0ZiWBBO41fVPftGYkgbhBvF6/hbLiTWc2Eoh7SRdGYTlywjExFwmBVSkwClNLNzsPCaH3r1JgbG09Q80cJBDvmtWxtnrawSwk+OaOhsoCXSmHfgnmdfUR6aCjT6TolkCWZRPpGkn6kdjRLMFxd02g0px+lezXRq8Eh+ybOMVy+lVk4wvccwCtEkIn+4zD0iFE6UluhaFTQri5O7hZDNf5N+MotQPRKMF5tIP9L5YL/ZOx2MgsMfRJIP76HuXK9CM5eZVUhK37OiwtqYc2CcQs7kG2HtulhyrH3j+ll6F53IlU4Nok2LtHkDe2NIlc6kJj15gjgXcqjMTlewyKLglu+YjB2BCqkpO+SIkNdQXux9X/Vr7ISK1Jgn99isHWI1R4H9lF6YXeoa7ADeMsNFrokUCC1SPE2ma93N5+XHk7Nv/YM6RaA+iRYD51CMaN+bfoJp2nOIrVXlokVAP9UwTCHCFI2w+RsHYqHXRIaL0Mxpahcmpw39vPIFpR6ZDgtn6RzG9DYJ2K1jPEQpkSaJFALq0IbN2i4y7jdfsR1mK9ImiR4D33ikw1NITLt7T3CLlwGaFegvPWCpBObssk8q7bgUdIfmBLaDcE4zx1goRc4v3wM6TMiUYH5RJI55aTCx/nmuxXww8Rsw8wLZRLsNov9Wp6W3YsG/J4lw08heBMk2oJJGr/EFumpkycyP1FTmnRbRL5j6odwmv7+oS9JZPQ+t0dIxYHkSFCtQSv07+nXA05ipvL7y9H5giUD4olEFi0r79xzZ7750bhb9M5f7wc64g/d1YsoVU61Zy4mnE9y1ixcggQ33XJMd6ttvwvhGIJVrcIzrlacZN535p3qeovTfuw4YlEUSzB7uT909OENlZ97b5VQf+YiVay6V7POMf6iVd3A+JFQ4NaCZ8d2gPOOSF730y0SkGtBKtXA/L1CWAXxuIibXFarYRulsAx0/yBuROfSnmgVkKvXzROfKvsVspQdLxEqQRCemVgzJf0R+XkEnwCSiV05lNqps+ptCA/d1U67OaLVfLPORUgdceOUgn9EdJYM+1M+CaUSoje+9dL34XFgVoJ//oBOMdIqSiVEJT9AJzDg1SUSugnjPw9o0yUShhqCYs/3/fDTUWphKE+gbd6kIlaCf3RoUqXRHYbyUGpBH9IwlrH929tlEoYyBiNOQySSiU4x6EQzJvXpKNUAoHBxcSN7qRRqQTwevMJNaW86RE+FEsY2l9gLIR2YkpArYShlNHQP0qqlTBQS9Mg8uZMuVArobNn647oRkRB1EoAe2iLRcVRa66gWEJvLbJhr7VXUCxhOGesSHVW1IolELIYCaTj3IRPFEvobuB7sNL2pbT+PUsPCn0vhGoJ3d1rT6QSF9bYUC1hLGmsEd2TyY1yCWP5Us1N3ALhmaxTLmG8a5Rhgfgxx0KtegkDq7IPzmIWSFDwbH1RL+HLpmCUImuTobVn2ybcoEFCf/fWMzuTewrezRdMRxDc0SCh8w1Ul+LCN/1M7BvvzIQOCcQf+W6hCXleciSPkV/VZiu+vb06JEA0VkY1bAlrYyDeqRZ74lvd1SLh676xYnWzWUY64hIacMeZc+qR0P48dIjs7E3+OMolH51MxrvRXY+E9lfzw+xPljUhtmP6aVOe57wb2jRJALN8HTsrI+/r2XgS/TomnzMULCc1tdEloXWSxji7M9hjHhzLPjx9JcjbIeiUQMyRrxy7N9jeDpYZ+M7j43pCwsg1rTx9jlBMeXfmJqF1us4LVkV6zg/EspfLpe255HCNk84HcWuRVSx9Ep7PWZp2q2xfs84Gpimzi8h+F40Snk/cEmR1EZqmFb292Nlr09+IL1kHP/A4kTuOX7y+xUuKUHDvl14J1RgxsiTFwM4TnazXLKEqgOPXN/mSd/HjbXVLqKdCXtURX5HlEra56JcAoTspeRwkcWWs3s1Awv3cZmayk5zTrucgoSoqvZLj3uXkavsF85AAYPnJ2Hr1CAmRtultLhKqwXLDoGGRHCSeeT4bCbUGf+z8nA77OHBlLuTPSAL9Sx/H9FUfmaVHU/JehllJgPpYMTcvx3Pposw9+X8HY24SoP7bN56dx8m2VTIvsiIpc9cTLJWGmaGEGidwPfPyN7+e3/+9n67534vrud8ioGamEijEcUI/iiI/dJxv3dA0ZwnKQAmAEigoAVACBSUASqCgBEAJFJQAKIGCEgAlUFACoAQKSgCUQEEJgBIoKAFQAgUlAEqgoARACRSUACiBghIAJVBQAqAECkoAlFDzPzmXdoZlpOdUAAAAAElFTkSuQmCC",
+        "occupier": "Pakistan Second Armee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5485.4375,
+          1453.84375
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,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",
+        "occupier": "Pakistan Second Armee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5486.75,
+          1454.09375
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAgVBMVEUBQRz///8APxj4+fgjSSsAMAAANAAAKwAAPRQAMgAALQAAOg0ANgAAOxEAKQAAOAfu8vDh5+MfTCzCzMW2wrra4Nx9koMnUTI8XkWuubFfeGWbqp/n7eoAIgBGZk7O1dBqgXCMn5IyWj4WRiNPbVd0inl4iHsAHAAAGQA9WUKJl4y6Es5DAAAHOElEQVR4nO2d2XajOBBAC3nYwXjFxtBgYju9/P8HDijENluMlkjknLpP3Q8U5EZIVZJQwBBk8R+BHw9KAJRAQQmAEigoAVACBSUASqCgBEAJFJQAKIGCEgAlUFACoAQKSgCUQEEJgBIoKAFQAgUlAEqgoARACRSUACiBghIAJVBQAqAECkoAlEBBCTA/CU4gNdw0ZiWBBO41fVPftGYkgbhBvF6/hbLiTWc2Eoh7SRdGYTlywjExFwmBVSkwClNLNzsPCaH3r1JgbG09Q80cJBDvmtWxtnrawSwk+OaOhsoCXSmHfgnmdfUR6aCjT6TolkCWZRPpGkn6kdjRLMFxd02g0px+lezXRq8Eh+ybOMVy+lVk4wvccwCtEkIn+4zD0iFE6UluhaFTQri5O7hZDNf5N+MotQPRKMF5tIP9L5YL/ZOx2MgsMfRJIP76HuXK9CM5eZVUhK37OiwtqYc2CcQs7kG2HtulhyrH3j+ll6F53IlU4Nok2LtHkDe2NIlc6kJj15gjgXcqjMTlewyKLglu+YjB2BCqkpO+SIkNdQXux9X/Vr7ISK1Jgn99isHWI1R4H9lF6YXeoa7ADeMsNFrokUCC1SPE2ma93N5+XHk7Nv/YM6RaA+iRYD51CMaN+bfoJp2nOIrVXlokVAP9UwTCHCFI2w+RsHYqHXRIaL0Mxpahcmpw39vPIFpR6ZDgtn6RzG9DYJ2K1jPEQpkSaJFALq0IbN2i4y7jdfsR1mK9ImiR4D33ikw1NITLt7T3CLlwGaFegvPWCpBObssk8q7bgUdIfmBLaDcE4zx1goRc4v3wM6TMiUYH5RJI55aTCx/nmuxXww8Rsw8wLZRLsNov9Wp6W3YsG/J4lw08heBMk2oJJGr/EFumpkycyP1FTmnRbRL5j6odwmv7+oS9JZPQ+t0dIxYHkSFCtQSv07+nXA05ipvL7y9H5giUD4olEFi0r79xzZ7750bhb9M5f7wc64g/d1YsoVU61Zy4mnE9y1ixcggQ33XJMd6ttvwvhGIJVrcIzrlacZN535p3qeovTfuw4YlEUSzB7uT909OENlZ97b5VQf+YiVay6V7POMf6iVd3A+JFQ4NaCZ8d2gPOOSF730y0SkGtBKtXA/L1CWAXxuIibXFarYRulsAx0/yBuROfSnmgVkKvXzROfKvsVspQdLxEqQRCemVgzJf0R+XkEnwCSiV05lNqps+ptCA/d1U67OaLVfLPORUgdceOUgn9EdJYM+1M+CaUSoje+9dL34XFgVoJ//oBOMdIqSiVEJT9AJzDg1SUSugnjPw9o0yUShhqCYs/3/fDTUWphKE+gbd6kIlaCf3RoUqXRHYbyUGpBH9IwlrH929tlEoYyBiNOQySSiU4x6EQzJvXpKNUAoHBxcSN7qRRqQTwevMJNaW86RE+FEsY2l9gLIR2YkpArYShlNHQP0qqlTBQS9Mg8uZMuVArobNn647oRkRB1EoAe2iLRcVRa66gWEJvLbJhr7VXUCxhOGesSHVW1IolELIYCaTj3IRPFEvobuB7sNL2pbT+PUsPCn0vhGoJ3d1rT6QSF9bYUC1hLGmsEd2TyY1yCWP5Us1N3ALhmaxTLmG8a5Rhgfgxx0KtegkDq7IPzmIWSFDwbH1RL+HLpmCUImuTobVn2ybcoEFCf/fWMzuTewrezRdMRxDc0SCh8w1Ul+LCN/1M7BvvzIQOCcQf+W6hCXleciSPkV/VZiu+vb06JEA0VkY1bAlrYyDeqRZ74lvd1SLh676xYnWzWUY64hIacMeZc+qR0P48dIjs7E3+OMolH51MxrvRXY+E9lfzw+xPljUhtmP6aVOe57wb2jRJALN8HTsrI+/r2XgS/TomnzMULCc1tdEloXWSxji7M9hjHhzLPjx9JcjbIeiUQMyRrxy7N9jeDpYZ+M7j43pCwsg1rTx9jlBMeXfmJqF1us4LVkV6zg/EspfLpe255HCNk84HcWuRVSx9Ep7PWZp2q2xfs84Gpimzi8h+F40Snk/cEmR1EZqmFb292Nlr09+IL1kHP/A4kTuOX7y+xUuKUHDvl14J1RgxsiTFwM4TnazXLKEqgOPXN/mSd/HjbXVLqKdCXtURX5HlEra56JcAoTspeRwkcWWs3s1Awv3cZmayk5zTrucgoSoqvZLj3uXkavsF85AAYPnJ2Hr1CAmRtultLhKqwXLDoGGRHCSeeT4bCbUGf+z8nA77OHBlLuTPSAL9Sx/H9FUfmaVHU/JehllJgPpYMTcvx3Pposw9+X8HY24SoP7bN56dx8m2VTIvsiIpc9cTLJWGmaGEGidwPfPyN7+e3/+9n67534vrud8ioGamEijEcUI/iiI/dJxv3dA0ZwnKQAmAEigoAVACBSUASqCgBEAJFJQAKIGCEgAlUFACoAQKSgCUQEEJgBIoKAFQAgUlAEqgoARACRSUACiBghIAJVBQAqAECkoAlFDzPzmXdoZlpOdUAAAAAElFTkSuQmCC",
+        "occupier": "Pakistan Second Armee"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5483.8125,
+          1453.6875
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5484.84375,
+          1450.875
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5484.5625,
+          1452.46875
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5478.65625,
+          1442.03125
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5479.28125,
+          1443.6875
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
       }
     }
   ]
