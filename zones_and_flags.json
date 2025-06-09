@@ -2981,16 +2981,16 @@
               1448.84375
             ],
             [
-              5479.125,
-              1451.25
+              5483.46875,
+              1449.625
             ],
             [
-              5481.3125,
-              1451.1875
+              5485.125,
+              1451.96875
             ],
             [
-              5482.5625,
-              1453.1875
+              5485.03125,
+              1455.4375
             ],
             [
               5482.0625,
@@ -4089,8 +4089,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5470.3125,
-          1431.75
+          5474.03125,
+          1430.40625
         ]
       },
       "properties": {
@@ -4104,8 +4104,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5468.875,
-          1434.0625
+          5473.65625,
+          1432.96875
         ]
       },
       "properties": {
@@ -4119,8 +4119,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5469.4375,
-          1437
+          5471.5625,
+          1437.3125
         ]
       },
       "properties": {
@@ -4194,7 +4194,22 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5476.3125,
+          5478.15625,
+          1447.6875
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5476.25,
           1447.5625
         ]
       },
@@ -4209,8 +4224,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5466.75,
-          1439.8125
+          5476.875,
+          1446.625
         ]
       },
       "properties": {
@@ -4224,8 +4239,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5463.875,
-          1437.9375
+          5475.375,
+          1424.75
         ]
       },
       "properties": {
@@ -4239,8 +4254,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5460.625,
-          1435.8125
+          5472.03125,
+          1417.4375
         ]
       },
       "properties": {
@@ -4254,8 +4269,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5458.75,
-          1431.9375
+          5476.46875,
+          1421.90625
         ]
       },
       "properties": {
@@ -4269,8 +4284,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5465.125,
-          1427.875
+          5474.34375,
+          1422.34375
         ]
       },
       "properties": {
@@ -4284,23 +4299,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5467.375,
-          1426.3125
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "2-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5463.0625,
-          1432.1875
+          5473.1875,
+          1424.90625
         ]
       },
       "properties": {
@@ -4584,8 +4584,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5468.8125,
-          1429.8125
+          5474.4375,
+          1432
         ]
       },
       "properties": {
@@ -4599,8 +4599,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5466.75,
-          1431.6875
+          5472.28125,
+          1429.53125
         ]
       },
       "properties": {
@@ -5214,8 +5214,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5473.125,
-          1447.46875
+          5481.53125,
+          1450.25
         ]
       },
       "properties": {
@@ -5229,8 +5229,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5467.25,
-          1436.5625
+          5478.21875,
+          1446.6875
         ]
       },
       "properties": {
@@ -5244,8 +5244,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5465.9375,
-          1434.4375
+          5477.84375,
+          1448.59375
         ]
       },
       "properties": {
@@ -5259,8 +5259,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5468.46875,
-          1432.375
+          5475.3125,
+          1431
         ]
       },
       "properties": {
@@ -5274,8 +5274,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5464.5625,
-          1430.75
+          5473.25,
+          1426.53125
         ]
       },
       "properties": {
@@ -5289,8 +5289,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5462.5,
-          1427.5625
+          5473.78125,
+          1420.1875
         ]
       },
       "properties": {
@@ -5304,8 +5304,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5462.875,
-          1424.1875
+          5475.28125,
+          1419.09375
         ]
       },
       "properties": {
@@ -5934,8 +5934,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5478.1875,
-          1448.15625
+          5483.25,
+          1451
         ]
       },
       "properties": {
@@ -5949,8 +5949,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5477.875,
-          1447.21875
+          5478.15625,
+          1449.78125
         ]
       },
       "properties": {
@@ -5964,8 +5964,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5478.0625,
-          1450.09375
+          5483.84375,
+          1454.5
         ]
       },
       "properties": {
@@ -5979,8 +5979,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5477.8125,
-          1449.1875
+          5483.96875,
+          1452.6875
         ]
       },
       "properties": {
@@ -5994,8 +5994,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5472.84375,
-          1443.625
+          5474.53125,
+          1440.28125
         ]
       },
       "properties": {
@@ -6009,8 +6009,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5471.71875,
-          1446.9375
+          5479.53125,
+          1450.03125
         ]
       },
       "properties": {
@@ -6654,8 +6654,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5479.96875,
-          1450.125
+          5483.03125,
+          1447.625
         ]
       },
       "properties": {
@@ -6819,8 +6819,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5483.65625,
-          1431.5
+          5486.09375,
+          1454.21875
         ]
       },
       "properties": {
@@ -6834,8 +6834,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5485.40625,
-          1429.6875
+          5486.90625,
+          1445.8125
         ]
       },
       "properties": {
@@ -6849,8 +6849,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5484.84375,
-          1427.4375
+          5487.15625,
+          1450.53125
         ]
       },
       "properties": {
@@ -6924,8 +6924,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5486.375,
-          1424.21875
+          5485.65625,
+          1451.0625
         ]
       },
       "properties": {
@@ -6939,8 +6939,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5486.65625,
-          1426.5625
+          5492.0625,
+          1442.71875
         ]
       },
       "properties": {
@@ -6954,8 +6954,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5487.21875,
-          1428.28125
+          5484.53125,
+          1449.625
         ]
       },
       "properties": {
@@ -7269,8 +7269,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5482.59375,
-          1450.0625
+          5484.84375,
+          1448.4375
         ]
       },
       "properties": {
@@ -7284,8 +7284,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5482.96875,
-          1452.03125
+          5485.65625,
+          1449.6875
         ]
       },
       "properties": {
@@ -8566,8 +8566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5482.65625,
-          1439.3125
+          5485.8125,
+          1443.03125
         ]
       },
       "properties": {
@@ -8626,8 +8626,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5482.9375,
-          1441.78125
+          5485.375,
+          1456.78125
         ]
       },
       "properties": {
@@ -8641,8 +8641,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5483,
-          1440.59375
+          5483.625,
+          1457.53125
         ]
       },
       "properties": {
@@ -8731,8 +8731,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5484.25,
-          1434
+          5486.90625,
+          1452.09375
         ]
       },
       "properties": {
@@ -8746,8 +8746,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5485.28125,
-          1436
+          5483.25,
+          1448.71875
         ]
       },
       "properties": {
@@ -8761,8 +8761,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5484.875,
-          1437.3125
+          5484.78125,
+          1458.28125
         ]
       },
       "properties": {
@@ -8776,8 +8776,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5483.75,
-          1437.84375
+          5487.40625,
+          1442.625
         ]
       },
       "properties": {
