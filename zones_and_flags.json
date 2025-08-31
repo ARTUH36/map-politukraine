@@ -366,81 +366,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3776.1875,
-          2184.0625
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "6-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3777.9375,
-          2186.3125
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "6-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3779.5,
-          2188.5
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "6-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3779.8125,
-          2191.1875
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "6-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3781.625,
-          2192.5625
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
-        "occupier": "6-ОШБР Збройні Сили України"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           3784.625,
           2193.5
         ]
@@ -1891,12 +1816,12 @@
               2189.75
             ],
             [
-              2278.78125,
-              2188.0625
+              2279.34375,
+              2188.5625
             ],
             [
-              2281.625,
-              2189.09375
+              2281.875,
+              2189.59375
             ],
             [
               2283.5,
@@ -6055,8 +5980,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2503,
-          2237
+          2411,
+          2214
         ]
       },
       "properties": {
@@ -6070,8 +5995,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2814,
-          2102
+          2408,
+          2294
         ]
       },
       "properties": {
@@ -6085,8 +6010,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3084,
-          1964
+          2378,
+          2351
         ]
       },
       "properties": {
@@ -6100,8 +6025,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3350,
-          2015
+          2370,
+          2401
         ]
       },
       "properties": {
@@ -6115,8 +6040,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3449,
-          1984
+          2429,
+          2335
         ]
       },
       "properties": {
@@ -6130,8 +6055,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3492,
-          1920
+          2329,
+          2303
         ]
       },
       "properties": {
@@ -6145,8 +6070,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3740,
-          1907
+          2381,
+          2253
         ]
       },
       "properties": {
@@ -6160,8 +6085,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3679,
-          2033
+          2333,
+          2361
         ]
       },
       "properties": {
@@ -6940,8 +6865,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2113.75,
-          2415.5
+          2155.25,
+          2375
         ]
       },
       "properties": {
@@ -6955,8 +6880,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2111.5,
-          2440.25
+          2173.75,
+          2369.5
         ]
       },
       "properties": {
@@ -6970,8 +6895,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2091.75,
-          2472
+          2137,
+          2402.75
         ]
       },
       "properties": {
@@ -6985,8 +6910,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2080.5,
-          2494.75
+          2201,
+          2316.5
         ]
       },
       "properties": {
@@ -7600,8 +7525,563 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2618,
-          2381
+          2304,
+          2401
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "6-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2321,
+          2456
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "6-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2284,
+          2454
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "6-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2229,
+          2435
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "6-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2427,
+          2430
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "6-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2499,
+          2367
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "6-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2490,
+          2277
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "6-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3695,
+          2271
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3707.25,
+          2270.75
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3717.25,
+          2271
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3727.75,
+          2271
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3737.5,
+          2271
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3737.25,
+          2264
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3736.75,
+          2256.75
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3770,
+          2246.75
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3776.75,
+          2247.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3785.5,
+          2247.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3793.5,
+          2232.5
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3793,
+          2223.75
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3793,
+          2216.75
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3792.75,
+          2212.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3792.75,
+          2206.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3792.25,
+          2239.5
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3794.75,
+          2247.75
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3736,
+          2248.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3746,
+          2247
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3753.75,
+          2247.75
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3761.5,
+          2246.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3686.25,
+          2270.75
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3673.75,
+          2272
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3662.75,
+          2272
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3792.625,
+          2201.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3792.625,
+          2198
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3788.625,
+          2197.75
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3783.125,
+          2197.5
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3776.75,
+          2197.5
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3775.875,
+          2188.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "2-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2059,
+          2485.5
         ]
       },
       "properties": {
@@ -7615,8 +8095,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2559,
-          2266
+          2183,
+          2357.5
         ]
       },
       "properties": {
@@ -7630,14 +8110,134 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2775,
-          2125
+          2184.5,
+          2348.5
         ]
       },
       "properties": {
         "type": "marker",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAe1BMVEX///8AgAAAdQAAfgAAfAAAeQAAdAAAdwD9//34/PjE3MQAggB2rnbl8OVAlEDy+PJeol7N4c0ShRJ/s3/U5dQgiCDb6tsoiyg2kDbp8umkyKSvz69SnFK71rtlpWVyrHKFtoUbhxuOu46WwJZElUSmyaZNmk2817xopmhl9O0eAAAEU0lEQVR4nO2dWVYbMRAAZVbbgQAJIXEIITvc/4QZMJvtWTRSd5eWqRN016vXmr9xy9nBbGID5+a3e/QQieEaplQ2cY/cHtFzpMTaibt4N6XywpOT5qpMqTzjXphSeca9YXqA1rx1MqWyxm1yMl2VHSfuYnZIj4Sz7WRKpc3JlEqLkyaVuh+gVifNA1RzKu1O6k6ly0nNV6XTScUPUI8Td/GhzlT6nNR6Vfqd1JnKgJMqUxl0UmEqw06c+1jZA+TjpLZUvJw0qdR0VTydVJWKr5OHVPbpYY3wd+Iua0llhJOHB6iKVEY5qSSVcU7qSGWskxpSGe2kggcowEnxqYQ4Kf2qhDlxlz8LTiXQiXM/yk0l2Im7KjaVcCdNKoU+QDFOSk0lykmhVyXSibv6VF4qsU5KTCXeSXmpCDgp7gEScVLYAyTjxLlfBV0VKSclXRUxJwWlIujEXX0uIxVJJ00qRTxAsk7KuCrCToq4KuJOCrgq8k7yT0XDSe6pqDjJ/AFScpJ1KlpOck5Fz0m+qSg6yfYBUnWSaSq6TvK8KtpOckxF3UmGqRg4yS4VCyfO/c7qAbJx4k6/ZJSKkZOsroqZE3eazVWxc9JcleM8UrF0kstVMXWSyQNk7CSLVKyd5HBV7J2knwrgJPlUECeJp8I4aVJJ+LOWcpJyKpiThK8K6CTZVEgnqabCOkkzFdhJkg8QrcS5VXKp0EYe+JrYVaF9PJJYKrSOJ5JKhZbxTEqp0C5eSScV2sQbVu+PaRtraBEbJJIKrWGTNFKhLWyTQiq0gx0SSIVW0AKeCi2gDToVev922FTo7TtAU6GX7wRMhV69Gy4VevM+qFTovXtZ/UFSodce4C+RCr30EEQq9M7D2KdCb+yBeSr0wl4Yp0Kv68fqn2Uq9La+WKZC7+rNmV0q9KojuD40SoVedAxWqdB7jsMmFXrLkZikQi85mmv9B4hecTz6qdAbhqB9Vej9glBOhV4vENVU6OVCOfumlwq9Wzh6DxC9WQRqqdCLRXF9qPJPe3qtOHQeIHqrWDRSoXeKRuGq0CsJIJ4KvZAE0qnQ+8ggmwq9jRCiqdDLiCGYCr2KHHKp0JtIIpUKvYcoQqnQawgjkgq9hDQSqdA7yHN9EJsKvYEC0anQC6hwE3dV6PF1WESlQk+vRcxVoWdXIyIVenRFbkJToQfXZHEelgo9ty5hqdBTKxOUCj20OgGp0CPrszjfm5zsMDYVel4TRqZCj2vE3ZhU6GGtGJMKPasd/qnQkxqy+O6ZCj2oKXf7XqnQY9rid1XoKa3xuSr0jOZ4XBV6RIDBVOgBCYZSoedjWPY+QPR0EL2p0MNh9KRCj8axuO9KhZ6MZNnxANFzoXSkQo8F03pV6KFo2h4geiae3VToiRJg56rQAyXBVir0OGkwvz+anOywnB1MTrZZvKZCj5IQL6nQg6TE/OkBoudIi/UDRE+RGPPbo8nJDs1VoUdIj/nJfyAcfTVPhytzAAAAAElFTkSuQmCC",
         "occupier": "Сибірська Перша Армія"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2207,
+          2328.5
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAe1BMVEX///8AgAAAdQAAfgAAfAAAeQAAdAAAdwD9//34/PjE3MQAggB2rnbl8OVAlEDy+PJeol7N4c0ShRJ/s3/U5dQgiCDb6tsoiyg2kDbp8umkyKSvz69SnFK71rtlpWVyrHKFtoUbhxuOu46WwJZElUSmyaZNmk2817xopmhl9O0eAAAEU0lEQVR4nO2dWVYbMRAAZVbbgQAJIXEIITvc/4QZMJvtWTRSd5eWqRN016vXmr9xy9nBbGID5+a3e/QQieEaplQ2cY/cHtFzpMTaibt4N6XywpOT5qpMqTzjXphSeca9YXqA1rx1MqWyxm1yMl2VHSfuYnZIj4Sz7WRKpc3JlEqLkyaVuh+gVifNA1RzKu1O6k6ly0nNV6XTScUPUI8Td/GhzlT6nNR6Vfqd1JnKgJMqUxl0UmEqw06c+1jZA+TjpLZUvJw0qdR0VTydVJWKr5OHVPbpYY3wd+Iua0llhJOHB6iKVEY5qSSVcU7qSGWskxpSGe2kggcowEnxqYQ4Kf2qhDlxlz8LTiXQiXM/yk0l2Im7KjaVcCdNKoU+QDFOSk0lykmhVyXSibv6VF4qsU5KTCXeSXmpCDgp7gEScVLYAyTjxLlfBV0VKSclXRUxJwWlIujEXX0uIxVJJ00qRTxAsk7KuCrCToq4KuJOCrgq8k7yT0XDSe6pqDjJ/AFScpJ1KlpOck5Fz0m+qSg6yfYBUnWSaSq6TvK8KtpOckxF3UmGqRg4yS4VCyfO/c7qAbJx4k6/ZJSKkZOsroqZE3eazVWxc9JcleM8UrF0kstVMXWSyQNk7CSLVKyd5HBV7J2knwrgJPlUECeJp8I4aVJJ+LOWcpJyKpiThK8K6CTZVEgnqabCOkkzFdhJkg8QrcS5VXKp0EYe+JrYVaF9PJJYKrSOJ5JKhZbxTEqp0C5eSScV2sQbVu+PaRtraBEbJJIKrWGTNFKhLWyTQiq0gx0SSIVW0AKeCi2gDToVev922FTo7TtAU6GX7wRMhV69Gy4VevM+qFTovXtZ/UFSodce4C+RCr30EEQq9M7D2KdCb+yBeSr0wl4Yp0Kv68fqn2Uq9La+WKZC7+rNmV0q9KojuD40SoVedAxWqdB7jsMmFXrLkZikQi85mmv9B4hecTz6qdAbhqB9Vej9glBOhV4vENVU6OVCOfumlwq9Wzh6DxC9WQRqqdCLRXF9qPJPe3qtOHQeIHqrWDRSoXeKRuGq0CsJIJ4KvZAE0qnQ+8ggmwq9jRCiqdDLiCGYCr2KHHKp0JtIIpUKvYcoQqnQawgjkgq9hDQSqdA7yHN9EJsKvYEC0anQC6hwE3dV6PF1WESlQk+vRcxVoWdXIyIVenRFbkJToQfXZHEelgo9ty5hqdBTKxOUCj20OgGp0CPrszjfm5zsMDYVel4TRqZCj2vE3ZhU6GGtGJMKPasd/qnQkxqy+O6ZCj2oKXf7XqnQY9rid1XoKa3xuSr0jOZ4XBV6RIDBVOgBCYZSoedjWPY+QPR0EL2p0MNh9KRCj8axuO9KhZ6MZNnxANFzoXSkQo8F03pV6KFo2h4geiae3VToiRJg56rQAyXBVir0OGkwvz+anOywnB1MTrZZvKZCj5IQL6nQg6TE/OkBoudIi/UDRE+RGPPbo8nJDs1VoUdIj/nJfyAcfTVPhytzAAAAAElFTkSuQmCC",
+        "occupier": "Сибірська Перша Армія"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2189.5,
+          2332.5
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAARMAAAC3CAMAAAAGjUrGAAAAe1BMVEX///8AgAAAdQAAfgAAfAAAeQAAdAAAdwD9//34/PjE3MQAggB2rnbl8OVAlEDy+PJeol7N4c0ShRJ/s3/U5dQgiCDb6tsoiyg2kDbp8umkyKSvz69SnFK71rtlpWVyrHKFtoUbhxuOu46WwJZElUSmyaZNmk2817xopmhl9O0eAAAEU0lEQVR4nO2dWVYbMRAAZVbbgQAJIXEIITvc/4QZMJvtWTRSd5eWqRN016vXmr9xy9nBbGID5+a3e/QQieEaplQ2cY/cHtFzpMTaibt4N6XywpOT5qpMqTzjXphSeca9YXqA1rx1MqWyxm1yMl2VHSfuYnZIj4Sz7WRKpc3JlEqLkyaVuh+gVifNA1RzKu1O6k6ly0nNV6XTScUPUI8Td/GhzlT6nNR6Vfqd1JnKgJMqUxl0UmEqw06c+1jZA+TjpLZUvJw0qdR0VTydVJWKr5OHVPbpYY3wd+Iua0llhJOHB6iKVEY5qSSVcU7qSGWskxpSGe2kggcowEnxqYQ4Kf2qhDlxlz8LTiXQiXM/yk0l2Im7KjaVcCdNKoU+QDFOSk0lykmhVyXSibv6VF4qsU5KTCXeSXmpCDgp7gEScVLYAyTjxLlfBV0VKSclXRUxJwWlIujEXX0uIxVJJ00qRTxAsk7KuCrCToq4KuJOCrgq8k7yT0XDSe6pqDjJ/AFScpJ1KlpOck5Fz0m+qSg6yfYBUnWSaSq6TvK8KtpOckxF3UmGqRg4yS4VCyfO/c7qAbJx4k6/ZJSKkZOsroqZE3eazVWxc9JcleM8UrF0kstVMXWSyQNk7CSLVKyd5HBV7J2knwrgJPlUECeJp8I4aVJJ+LOWcpJyKpiThK8K6CTZVEgnqabCOkkzFdhJkg8QrcS5VXKp0EYe+JrYVaF9PJJYKrSOJ5JKhZbxTEqp0C5eSScV2sQbVu+PaRtraBEbJJIKrWGTNFKhLWyTQiq0gx0SSIVW0AKeCi2gDToVev922FTo7TtAU6GX7wRMhV69Gy4VevM+qFTovXtZ/UFSodce4C+RCr30EEQq9M7D2KdCb+yBeSr0wl4Yp0Kv68fqn2Uq9La+WKZC7+rNmV0q9KojuD40SoVedAxWqdB7jsMmFXrLkZikQi85mmv9B4hecTz6qdAbhqB9Vej9glBOhV4vENVU6OVCOfumlwq9Wzh6DxC9WQRqqdCLRXF9qPJPe3qtOHQeIHqrWDRSoXeKRuGq0CsJIJ4KvZAE0qnQ+8ggmwq9jRCiqdDLiCGYCr2KHHKp0JtIIpUKvYcoQqnQawgjkgq9hDQSqdA7yHN9EJsKvYEC0anQC6hwE3dV6PF1WESlQk+vRcxVoWdXIyIVenRFbkJToQfXZHEelgo9ty5hqdBTKxOUCj20OgGp0CPrszjfm5zsMDYVel4TRqZCj2vE3ZhU6GGtGJMKPasd/qnQkxqy+O6ZCj2oKXf7XqnQY9rid1XoKa3xuSr0jOZ4XBV6RIDBVOgBCYZSoedjWPY+QPR0EL2p0MNh9KRCj8axuO9KhZ6MZNnxANFzoXSkQo8F03pV6KFo2h4geiae3VToiRJg56rQAyXBVir0OGkwvz+anOywnB1MTrZZvKZCj5IQL6nQg6TE/OkBoudIi/UDRE+RGPPbo8nJDs1VoUdIj/nJfyAcfTVPhytzAAAAAElFTkSuQmCC",
+        "occupier": "Сибірська Перша Армія"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2394.25,
+          2210.75
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "1-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2368.25,
+          2208.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "1-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2342.75,
+          2205
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "1-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2321.75,
+          2202
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "1-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2307,
+          2201.75
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "1-ОШБР Збройні Сили України"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2291.25,
+          2186
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQQAAACtCAMAAABhsvGqAAAAD1BMVEUAV7f/1wAAU7lzgpn/3QClR4e3AAAAt0lEQVR4nO3QAQ3DABADsb+2/DFPCo3ZEHwHAAAAAAAAAAAAAAAAAAAAAAAAAADAf3t47uW9j+8iCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUkYCUmYH16jX3l2TlEQAAAAAElFTkSuQmCC",
+        "occupier": "1-ОШБР Збройні Сили України"
       }
     }
   ]
