@@ -10625,44 +10625,44 @@
               1240
             ],
             [
-              2334.5,
-              1241
+              2361.5,
+              1250.5
             ],
             [
-              2322,
-              1246
+              2348,
+              1254
             ],
             [
-              2301.5,
-              1246.5
+              2331,
+              1264.5
             ],
             [
-              2287.5,
-              1253
+              2317,
+              1273.5
             ],
             [
-              2276,
-              1269
+              2313,
+              1308
             ],
             [
-              2230,
-              1277
+              2279.5,
+              1328
             ],
             [
-              2196.5,
-              1288
+              2239,
+              1334
             ],
             [
-              2180,
-              1282.5
+              2185,
+              1326
             ],
             [
-              2166,
-              1253.5
+              2152.5,
+              1264.5
             ],
             [
-              2160.5,
-              1224.5
+              2137,
+              1235.5
             ],
             [
               2137.5,
@@ -13188,28 +13188,72 @@
         "coordinates": [
           [
             [
-              2036.5,
-              691.5
+              1967,
+              692
             ],
             [
-              2099.25,
-              690.5
+              1979.5,
+              659
             ],
             [
-              2137.5,
-              688.25
+              1969,
+              635.5
             ],
             [
-              2160.75,
-              684
+              1960,
+              535
             ],
             [
-              2168.5,
-              653.5
+              2034,
+              503
             ],
             [
-              2183,
-              655.75
+              2054,
+              518
+            ],
+            [
+              2075,
+              511
+            ],
+            [
+              2090.5,
+              505.5
+            ],
+            [
+              2104,
+              510
+            ],
+            [
+              2111.5,
+              514.5
+            ],
+            [
+              2114.5,
+              537.5
+            ],
+            [
+              2108.5,
+              553.5
+            ],
+            [
+              2123.5,
+              553.5
+            ],
+            [
+              2159.5,
+              554
+            ],
+            [
+              2195.5,
+              566.5
+            ],
+            [
+              2210,
+              586
+            ],
+            [
+              2215.5,
+              605
             ],
             [
               2194.5,
@@ -13412,12 +13456,16 @@
               804
             ],
             [
-              2006.25,
-              740.75
+              1982,
+              761.5
             ],
             [
-              2036.5,
-              691.5
+              1973.5,
+              724.5
+            ],
+            [
+              1967,
+              692
             ]
           ]
         ]
@@ -17226,8 +17274,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2183.5,
-          600
+          1982,
+          504
         ]
       },
       "properties": {
@@ -17241,8 +17289,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1998,
-          737
+          1969,
+          509
         ]
       },
       "properties": {
@@ -17256,8 +17304,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2137,
-          639
+          2034,
+          487
         ]
       },
       "properties": {
@@ -17271,8 +17319,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2073,
-          621
+          1993,
+          483
         ]
       },
       "properties": {
@@ -17286,8 +17334,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2112,
-          601
+          2044,
+          491
         ]
       },
       "properties": {
@@ -17301,8 +17349,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2097,
-          677
+          2001,
+          462
         ]
       },
       "properties": {
@@ -17316,8 +17364,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2156,
-          672
+          2046,
+          493
         ]
       },
       "properties": {
@@ -17331,8 +17379,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2018,
-          698.5
+          1974,
+          479
         ]
       },
       "properties": {
@@ -17346,8 +17394,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2014.5,
-          671
+          2003,
+          502
         ]
       },
       "properties": {
@@ -17361,8 +17409,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2154.5,
-          587
+          2008,
+          500
         ]
       },
       "properties": {
@@ -17376,8 +17424,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2032,
-          633
+          2023,
+          474
         ]
       },
       "properties": {
@@ -18209,6 +18257,198 @@
             ]
           ]
         ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Територія Північної Америки (Тимчасово окупована зомбі-вірусом)",
+        "occupier": "☣",
+        "color": "#1a1a1a",
+        "type": "polygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1900.1875,
+              2055.5625
+            ],
+            [
+              1909.5,
+              2055.125
+            ],
+            [
+              1912.9375,
+              2055.375
+            ],
+            [
+              1919.5,
+              2057
+            ],
+            [
+              1921.75,
+              2057.75
+            ],
+            [
+              1928.25,
+              2058.4375
+            ],
+            [
+              1933.375,
+              2059.4375
+            ],
+            [
+              1936.6875,
+              2061.25
+            ],
+            [
+              1941.9375,
+              2063.5
+            ],
+            [
+              1944.1875,
+              2064.75
+            ],
+            [
+              1938.875,
+              2064.625
+            ],
+            [
+              1936.5,
+              2063.75
+            ],
+            [
+              1935.25,
+              2062.625
+            ],
+            [
+              1933.5,
+              2062.9375
+            ],
+            [
+              1930,
+              2063.8125
+            ],
+            [
+              1924.9375,
+              2063.625
+            ],
+            [
+              1922.375,
+              2062.75
+            ],
+            [
+              1919.1875,
+              2061.8125
+            ],
+            [
+              1916.9375,
+              2062.25
+            ],
+            [
+              1914.1875,
+              2061.75
+            ],
+            [
+              1910.3125,
+              2063
+            ],
+            [
+              1908,
+              2063.5625
+            ],
+            [
+              1905.3125,
+              2063.625
+            ],
+            [
+              1903.8125,
+              2063
+            ],
+            [
+              1901.75,
+              2061.4375
+            ],
+            [
+              1900.125,
+              2059.5
+            ],
+            [
+              1898.75,
+              2058.0625
+            ],
+            [
+              1899.5,
+              2055.375
+            ],
+            [
+              1900.1875,
+              2055.5625
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1958.25,
+          526
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAAB4BAMAAABWa+AsAAAALVBMVEX///90rN/Unk3q1b32sw3duYzKiSjZrnHVly7w49flyaS8cw738e3mohD7+fiEwRAHAAACV0lEQVRo3u3Yz2vaYBgH8LDgISLC/oUEf7WuhMimFY/vrQiixA5XPDj6rhgGI0HjultK/UULwTImQ4YIYivbDlJCQYSgjLU77DIpG72EgofB/ojFy/6C9z0MnucPeD68efM8+RLmIeViAAAAAAAAAAAAAAAAAAAAAADgPwKgCNcNK7IU23sdzZOR/X1a/f1ud08x4sn4KQFDX7T7pSjMbZlOf7tjCvfxvaOB95WPRn/fa7YlzUdaS7gX39k0hI6Z7Uq7qnAyuInQuOE+J1yPeDU4OPwlme8pCNlU4vHRCwPn87EIG3DIAywfO27ULSXYOE9lTQrvqLn68aS6aU2t/XI2yuWIAysjdS5bM4TucK18Fi6SP8K3cAXXkVt4Ejc+kr8BbXwWxJdrYKdZSv1WiU+CyjeSm8vbZfo0bYVD/AXxa/b/iTcV9wLwDFmhcY/8I5J1PegCs7srZPG6LovEgYrOKwillwhNS3qFOMAwi+GbKUI/TxG6qmvfiU8ylwyphrJcnyA9KdT4APFlrX9YBI1LdPsS7eDSduytSWHQtBpenwAf7LqD5pBfFduDEF6vCiVbXlBYFUO7G8g/U6bTSeP5p89cgcK6bi/a1ZKlHDx6GmtSSC5+VZSSx/s4XE3kWosAeYC54ITEaKOk84UTyfRS+KIxnV77WtIrQivA0fjor2PLltSNH0aFDqXYYj/obyS+5rYkLkIleDHMmItKq73W3NYoZVPHk5FWbv7NOJQAN7673eP04rtbIiv2GCjCBb8SAAAAAAAAAAAAAAAAAAAAAADgX/0FCsm6EH6Z2/gAAAAASUVORK5CYII=",
+        "occupier": "Second army of Argentina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1950,
+          516
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAAB4BAMAAABWa+AsAAAALVBMVEX///90rN/Unk3q1b32sw3duYzKiSjZrnHVly7w49flyaS8cw738e3mohD7+fiEwRAHAAACV0lEQVRo3u3Yz2vaYBgH8LDgISLC/oUEf7WuhMimFY/vrQiixA5XPDj6rhgGI0HjultK/UULwTImQ4YIYivbDlJCQYSgjLU77DIpG72EgofB/ojFy/6C9z0MnucPeD68efM8+RLmIeViAAAAAAAAAAAAAAAAAAAAAADgPwKgCNcNK7IU23sdzZOR/X1a/f1ud08x4sn4KQFDX7T7pSjMbZlOf7tjCvfxvaOB95WPRn/fa7YlzUdaS7gX39k0hI6Z7Uq7qnAyuInQuOE+J1yPeDU4OPwlme8pCNlU4vHRCwPn87EIG3DIAywfO27ULSXYOE9lTQrvqLn68aS6aU2t/XI2yuWIAysjdS5bM4TucK18Fi6SP8K3cAXXkVt4Ejc+kr8BbXwWxJdrYKdZSv1WiU+CyjeSm8vbZfo0bYVD/AXxa/b/iTcV9wLwDFmhcY/8I5J1PegCs7srZPG6LovEgYrOKwillwhNS3qFOMAwi+GbKUI/TxG6qmvfiU8ylwyphrJcnyA9KdT4APFlrX9YBI1LdPsS7eDSduytSWHQtBpenwAf7LqD5pBfFduDEF6vCiVbXlBYFUO7G8g/U6bTSeP5p89cgcK6bi/a1ZKlHDx6GmtSSC5+VZSSx/s4XE3kWosAeYC54ITEaKOk84UTyfRS+KIxnV77WtIrQivA0fjor2PLltSNH0aFDqXYYj/obyS+5rYkLkIleDHMmItKq73W3NYoZVPHk5FWbv7NOJQAN7673eP04rtbIiv2GCjCBb8SAAAAAAAAAAAAAAAAAAAAAADgX/0FCsm6EH6Z2/gAAAAASUVORK5CYII=",
+        "occupier": "Second army of Argentina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2051.25,
+          504.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAAB4BAMAAABWa+AsAAAALVBMVEX///90rN/Unk3q1b32sw3duYzKiSjZrnHVly7w49flyaS8cw738e3mohD7+fiEwRAHAAACV0lEQVRo3u3Yz2vaYBgH8LDgISLC/oUEf7WuhMimFY/vrQiixA5XPDj6rhgGI0HjultK/UULwTImQ4YIYivbDlJCQYSgjLU77DIpG72EgofB/ojFy/6C9z0MnucPeD68efM8+RLmIeViAAAAAAAAAAAAAAAAAAAAAADgPwKgCNcNK7IU23sdzZOR/X1a/f1ud08x4sn4KQFDX7T7pSjMbZlOf7tjCvfxvaOB95WPRn/fa7YlzUdaS7gX39k0hI6Z7Uq7qnAyuInQuOE+J1yPeDU4OPwlme8pCNlU4vHRCwPn87EIG3DIAywfO27ULSXYOE9lTQrvqLn68aS6aU2t/XI2yuWIAysjdS5bM4TucK18Fi6SP8K3cAXXkVt4Ejc+kr8BbXwWxJdrYKdZSv1WiU+CyjeSm8vbZfo0bYVD/AXxa/b/iTcV9wLwDFmhcY/8I5J1PegCs7srZPG6LovEgYrOKwillwhNS3qFOMAwi+GbKUI/TxG6qmvfiU8ylwyphrJcnyA9KdT4APFlrX9YBI1LdPsS7eDSduytSWHQtBpenwAf7LqD5pBfFduDEF6vCiVbXlBYFUO7G8g/U6bTSeP5p89cgcK6bi/a1ZKlHDx6GmtSSC5+VZSSx/s4XE3kWosAeYC54ITEaKOk84UTyfRS+KIxnV77WtIrQivA0fjor2PLltSNH0aFDqXYYj/obyS+5rYkLkIleDHMmItKq73W3NYoZVPHk5FWbv7NOJQAN7673eP04rtbIiv2GCjCBb8SAAAAAAAAAAAAAAAAAAAAAADgX/0FCsm6EH6Z2/gAAAAASUVORK5CYII=",
+        "occupier": "Second army of Argentina"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2021,
+          365
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAAB4BAMAAABWa+AsAAAALVBMVEX///90rN/Unk3q1b32sw3duYzKiSjZrnHVly7w49flyaS8cw738e3mohD7+fiEwRAHAAACV0lEQVRo3u3Yz2vaYBgH8LDgISLC/oUEf7WuhMimFY/vrQiixA5XPDj6rhgGI0HjultK/UULwTImQ4YIYivbDlJCQYSgjLU77DIpG72EgofB/ojFy/6C9z0MnucPeD68efM8+RLmIeViAAAAAAAAAAAAAAAAAAAAAADgPwKgCNcNK7IU23sdzZOR/X1a/f1ud08x4sn4KQFDX7T7pSjMbZlOf7tjCvfxvaOB95WPRn/fa7YlzUdaS7gX39k0hI6Z7Uq7qnAyuInQuOE+J1yPeDU4OPwlme8pCNlU4vHRCwPn87EIG3DIAywfO27ULSXYOE9lTQrvqLn68aS6aU2t/XI2yuWIAysjdS5bM4TucK18Fi6SP8K3cAXXkVt4Ejc+kr8BbXwWxJdrYKdZSv1WiU+CyjeSm8vbZfo0bYVD/AXxa/b/iTcV9wLwDFmhcY/8I5J1PegCs7srZPG6LovEgYrOKwillwhNS3qFOMAwi+GbKUI/TxG6qmvfiU8ylwyphrJcnyA9KdT4APFlrX9YBI1LdPsS7eDSduytSWHQtBpenwAf7LqD5pBfFduDEF6vCiVbXlBYFUO7G8g/U6bTSeP5p89cgcK6bi/a1ZKlHDx6GmtSSC5+VZSSx/s4XE3kWosAeYC54ITEaKOk84UTyfRS+KIxnV77WtIrQivA0fjor2PLltSNH0aFDqXYYj/obyS+5rYkLkIleDHMmItKq73W3NYoZVPHk5FWbv7NOJQAN7673eP04rtbIiv2GCjCBb8SAAAAAAAAAAAAAAAAAAAAAADgX/0FCsm6EH6Z2/gAAAAASUVORK5CYII=",
+        "occupier": "Second army of Argentina"
       }
     }
   ]
