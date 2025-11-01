@@ -591,8 +591,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3837,
-          2153.9375
+          3833.0625,
+          2149.0625
         ]
       },
       "properties": {
@@ -606,8 +606,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3838.4375,
-          2151.5625
+          3837.125,
+          2144.625
         ]
       },
       "properties": {
@@ -666,8 +666,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3845.8125,
-          2153.6875
+          3849.75,
+          2153.5
         ]
       },
       "properties": {
@@ -681,8 +681,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3844.9375,
-          2150.625
+          3841,
+          2145.8125
         ]
       },
       "properties": {
@@ -696,8 +696,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3840.125,
-          2153.8125
+          3833.125,
+          2145.8125
         ]
       },
       "properties": {
@@ -711,8 +711,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3842.5,
-          2152.0625
+          3844.125,
+          2148.1875
         ]
       },
       "properties": {
@@ -12578,16 +12578,52 @@
               2138.25
             ],
             [
-              3379.875,
-              2145.125
+              3391.625,
+              2146.09375
             ],
             [
-              3369.625,
-              2151.5
+              3400.0625,
+              2148.1875
             ],
             [
-              3356.5,
-              2165.125
+              3406.65625,
+              2149.53125
+            ],
+            [
+              3411.15625,
+              2147.34375
+            ],
+            [
+              3414.59375,
+              2148.375
+            ],
+            [
+              3414.21875,
+              2150.84375
+            ],
+            [
+              3407.25,
+              2152.75
+            ],
+            [
+              3400.3125,
+              2152.53125
+            ],
+            [
+              3393.75,
+              2152.25
+            ],
+            [
+              3391.5,
+              2153.25
+            ],
+            [
+              3387.75,
+              2154.875
+            ],
+            [
+              3385,
+              2158.25
             ],
             [
               3349.625,
@@ -26178,94 +26214,6 @@
     },
     {
       "type": "Feature",
-      "properties": {
-        "name": "Територія України (Тимчасово Окуповано зомбі-вірусом)",
-        "occupier": "☣",
-        "color": "#1a1a1a",
-        "type": "polygon"
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              3832.625,
-              2154
-            ],
-            [
-              3831.875,
-              2152.5
-            ],
-            [
-              3831.75,
-              2151
-            ],
-            [
-              3831.5,
-              2149.5
-            ],
-            [
-              3829.125,
-              2148
-            ],
-            [
-              3830.375,
-              2145.875
-            ],
-            [
-              3833.5,
-              2144.5
-            ],
-            [
-              3835.875,
-              2143.75
-            ],
-            [
-              3840,
-              2143
-            ],
-            [
-              3843,
-              2144.25
-            ],
-            [
-              3844.625,
-              2146.375
-            ],
-            [
-              3846.5,
-              2147.5
-            ],
-            [
-              3843.25,
-              2149.5
-            ],
-            [
-              3839,
-              2149
-            ],
-            [
-              3836,
-              2148.625
-            ],
-            [
-              3834.875,
-              2151.25
-            ],
-            [
-              3834.375,
-              2154
-            ],
-            [
-              3832.625,
-              2154
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
       "geometry": {
         "type": "Point",
         "coordinates": [
@@ -29569,21 +29517,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1636.375,
-          1538
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1643.5,
           1532.375
         ]
@@ -29659,21 +29592,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1645.25,
-          1537.875
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1643,
           1537.25
         ]
@@ -29734,98 +29652,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1645.875,
-          1537.875
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1646.25,
           1539.75
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1637.375,
-          1538.625
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1635.125,
-          1538.625
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1632.875,
-          1542.875
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1635.875,
-          1541.875
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1641.125,
-          1541.375
         ]
       },
       "properties": {
@@ -29976,51 +29804,6 @@
         "coordinates": [
           1656.875,
           1555.625
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1658.25,
-          1557
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1658.625,
-          1557.875
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1659.375,
-          1560.875
         ]
       },
       "properties": {
@@ -30199,21 +29982,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1659.75,
-          1557
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1656.125,
           1554.75
         ]
@@ -30274,96 +30042,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1644.625,
-          1546.625
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1643.125,
-          1551.125
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1649.75,
-          1555.125
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1650.875,
-          1556.375
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1647.375,
-          1552.375
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1643.5,
-          1546.375
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           1653.625,
           1560.9375
         ]
@@ -30381,51 +30059,6 @@
         "coordinates": [
           1655,
           1560.4375
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1658.25,
-          1562.4375
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1658.4375,
-          1560.4375
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1648.625,
-          1553.875
         ]
       },
       "properties": {
@@ -30471,21 +30104,6 @@
         "coordinates": [
           1645.4375,
           1538.125
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1646.875,
-          1537.5
         ]
       },
       "properties": {
@@ -30561,51 +30179,6 @@
         "coordinates": [
           1660.75,
           1571.5
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1665,
-          1569.75
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1665.75,
-          1569.875
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAANUAAAB4CAMAAABSHEeBAAAA51BMVEUAR6v/++n//fT/65f/+N3/54P/7qf/////4Gf+/v7/88MGjAcLhQr5+fn/9tD08/H/8LQfh9A7nzuJhk8CNqIBlgHI0d4XkxefttbEwrYomCgChWAPeA/z69vn7ekvYLL/2kahy6Bzs2/a3uPPsFcEFncBiCnty8Tx2dXWwnBEZoi7spoALJzN4Mh2pHNhrF/0vbYUfMWqpVxMp0xPdrkxk9hVnFzo1pqv1K9jjsl/v348iCPZ6dmTwJCbnJLs48IxS4LgxVqHo9C42rjH1cBLUlVjgpUWiI+prpYcTaPicWaGtYAoZEJUuoUVAAAD7UlEQVR42u3Z15KjOBQGYLIkkIDGmDQGHNs5jGM7h847+/7Ps7K9M7u3U1tslbrOVy4M3Nh/SRwOQpIAAAAAAAAAAAAAAAAAAAAAAAAAAMBvQV8RpPovVIx0DSFT/iqpZB7JxIZZ1RDBtq58iVSaqtvYcHXk2ghhuYo1JIueSrNVQ3dNvufg27FcRYYteCpDMbB8n3PHJvn7JEaGK3IqWcO/xiWKfqaSDX6JCZyqit2fxYHMA/LrvCvwDDRvxTy9jxab9++pZPP+rQmaylUNvk2b91TTc3pPc7u+3KouaCrCR8mJO6eP637abDYZ31F6b/0X/q0XOVjFpbKN69+e0ZrvD/lQNeub0YqnOwzmY8pP2BgLmcrkc6xNPUfyGylaxY7T6DrouB6sh7TEJ6GBTfFSKZiXiud932GS70Qv53TSnhy7B7b216Q9qjGkucXFKvC6MhDxtkvS8CUSlY6TdnsyWZ1QJOUko9snfjMu7l5cWCqbtxRsWSkd2UBiw1Vn0vmjM0nPLPJzEpcqMS/8uipaKqJjY1f/iP3P2PeDc3pL1XZWq7XfO/jzQ3/PTCxcKsTvVZtw6fmDqH96XRGn3e62U8bOrd4xH/QSz8pkQ1UES2XrGA0pDQd+hE7nbDN0OqvU4ffk0hzlg5xaIVMM4aqFYqiI/djGkn9B06NXLs+8cS3bMXKOST5YH7YvvEpiWbQZyA1n+1nuR+noW5l7tB6590WX5dLb/kc9U0xNvFQKGYdepSXlTVq+saxHypOtP6RBKwzDZ17ahasWBlaGFqWt1mn57V/e3x+mrVaL0oRpAtZAQ5XRblk6taaLh8Xi+8Pigft+3S5eW4ftngn5fKXw3uK5XvdK1yDfb5/rztXoNRmNxExlGJiMy2EynZZK3W63dDPtdvlhc0vLyRNSBexuia1qO8uimyxY+/MgmA8+Py/BJZcumZNQa0ZcRRcvFR8KFz0nldibOY2owZh/yYkTRM6+Xh9Rj/Gnf1vAVLxnspFTG5WTWhDEjczJnEbciB0vmS07BNkuVkRMpei8d9hYNPSy2rgRxHEQvIyfdtSiCX8WVl0ZiZgKYVeV64lV2fYty8sC5uws6vUrNOSlQsdFLrgXuh6oazqrz/YfY8uy3vLotOSp6v2Nx0PJapGL7UWmUmzd1BRCarzHqPzZO/UqFUq9HSKaLuNC19oLXmfHmFe6Gu/6rGWv1/OsMEwcpJlVXOz7noJTmbJuqGbtaeNFFzIfjWtPz66LVdNEIqdCsupeXxUwljVQFDjX50nV0Av+0f/lrdyt1fin6XAL/0l42y1SKgAAAAAAAAAAAAAAAAAAAAAAAAAA8Fv+ApkSLhBuL2q5AAAAAElFTkSuQmCC",
-        "occupier": "Salvadore First Army"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1665.75,
-          1571.25
         ]
       },
       "properties": {
@@ -30717,8 +30290,24 @@
         "coordinates": [
           [
             [
+              4990.625,
+              1680.75
+            ],
+            [
               4997,
               1673.5
+            ],
+            [
+              4988.125,
+              1673
+            ],
+            [
+              4980.375,
+              1661.625
+            ],
+            [
+              4992.125,
+              1654.5
             ],
             [
               5004.5,
@@ -30773,16 +30362,40 @@
               1672.5
             ],
             [
-              5007.5,
-              1683
+              5072.375,
+              1716.5
             ],
             [
-              4998.5,
-              1685.5
+              5074.5,
+              1726.375
             ],
             [
-              4997,
-              1673.5
+              5071,
+              1738.375
+            ],
+            [
+              5058.375,
+              1736.125
+            ],
+            [
+              5036.625,
+              1727.375
+            ],
+            [
+              5023.5,
+              1696.125
+            ],
+            [
+              5017.25,
+              1684.875
+            ],
+            [
+              4988.75,
+              1694.125
+            ],
+            [
+              4990.625,
+              1680.75
             ]
           ]
         ]
@@ -31378,8 +30991,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5001.625,
-          1661
+          4976.125,
+          1646.5
         ]
       },
       "properties": {
@@ -31393,8 +31006,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4996.875,
-          1665.125
+          4968.25,
+          1657.5
         ]
       },
       "properties": {
@@ -31408,8 +31021,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4997.25,
-          1665.75
+          4980.625,
+          1653.375
         ]
       },
       "properties": {
@@ -31423,8 +31036,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4993.375,
-          1673.25
+          4983.75,
+          1672.375
         ]
       },
       "properties": {
@@ -31438,8 +31051,38 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4994.125,
-          1676.125
+          4958.875,
+          1658.5
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4CAMAAABsOSjPAAAATlBMVEU0sjPwYW39/fpsx2uc2ZvE6cT4+fX////qKDn+ywD+4WlJukj96+32oKj/88D4t73tSljrNETo9uj+0R70h5H83d98zXuJ0oj6x8z+zQyJ0L00AAACdElEQVR42u2Z65KCMAxGSwS6K/er8v4vurqrKxeVspvQZCb5SWE8k55+tGI+BZZRaIVWaIVWaIVWaIVWaIVWaIVWaFnQTSMPejgeBXY6z8VBD421jbhOH609iut0bm0uDfpiB50fhs4OOj+ooPMrdC4L+tsOMj8MoR1kfhhCO8j8oIFu4AcaBkHQNzuo/DCUdlD5QQI9wB2axg9DageRH4bUDgu5GGh4dDoehECP7LBA4YchqGgEbSMjo+Jxp2MZzAc7qYMI6IkdFiJxdlzzQ6AdMvwI59ChAOh6Dl0LtEOCH+ES2r8fffi+YAkNK4/0e8fw/2ufIO9jTOa438eQBK/ZUCd7eZ2EWNC7rtEDiiL1zmGIoUiUcAhkxmr8KlJLUgMhssGDGvc6wR+ZTz5f6knNO5zx1iODDfbWyI5Z7FS3RXaUGBa15a3O6OzlGtk1q0OMmyJc1NgQ2X7D2flEy/98e1qDZtjo9Y0Iwz/1kvV1mMizw9penh0c/XDYpAI35t7l5dLLs4PfRwGnI0ws0A48Pz5QqnCDLnB+DQn6yekly574wQk6WOClweVqurgcMIJe2FFU18vVeZ4fBSPo+afD9j7QxhR+GAI7uvIxVHYEfqBAT5dcVo3HqtkgG+h0tgJn8zAZ5gI9tuNcLsfLM7IfBtUOeDH7GaD6YTDtSF+28aFIygM6mIbz86oKRD8Mmh2PcH5e98jOWEB/zzx05dp9t8juOEAHzv27RXbAADp7uwKX6xEyBtCXST9XrjdfI7vzD11aaLfc34ItvUNn3UaGsmu9Q7fV1icq/9A+SqEVWqEVWqEVWqEVWqEVWqEVWqFJ6gvFNw4Rzz/m7AAAAABJRU5ErkJggg==",
+        "occupier": "ဒုတိယမြန်မာ့တပ်မတော်"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4978,
+          1698.5
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4CAMAAABsOSjPAAAATlBMVEU0sjPwYW39/fpsx2uc2ZvE6cT4+fX////qKDn+ywD+4WlJukj96+32oKj/88D4t73tSljrNETo9uj+0R70h5H83d98zXuJ0oj6x8z+zQyJ0L00AAACdElEQVR42u2Z65KCMAxGSwS6K/er8v4vurqrKxeVspvQZCb5SWE8k55+tGI+BZZRaIVWaIVWaIVWaIVWaIVWaIVWaFnQTSMPejgeBXY6z8VBD421jbhOH609iut0bm0uDfpiB50fhs4OOj+ooPMrdC4L+tsOMj8MoR1kfhhCO8j8oIFu4AcaBkHQNzuo/DCUdlD5QQI9wB2axg9DageRH4bUDgu5GGh4dDoehECP7LBA4YchqGgEbSMjo+Jxp2MZzAc7qYMI6IkdFiJxdlzzQ6AdMvwI59ChAOh6Dl0LtEOCH+ES2r8fffi+YAkNK4/0e8fw/2ufIO9jTOa438eQBK/ZUCd7eZ2EWNC7rtEDiiL1zmGIoUiUcAhkxmr8KlJLUgMhssGDGvc6wR+ZTz5f6knNO5zx1iODDfbWyI5Z7FS3RXaUGBa15a3O6OzlGtk1q0OMmyJc1NgQ2X7D2flEy/98e1qDZtjo9Y0Iwz/1kvV1mMizw9penh0c/XDYpAI35t7l5dLLs4PfRwGnI0ws0A48Pz5QqnCDLnB+DQn6yekly574wQk6WOClweVqurgcMIJe2FFU18vVeZ4fBSPo+afD9j7QxhR+GAI7uvIxVHYEfqBAT5dcVo3HqtkgG+h0tgJn8zAZ5gI9tuNcLsfLM7IfBtUOeDH7GaD6YTDtSF+28aFIygM6mIbz86oKRD8Mmh2PcH5e98jOWEB/zzx05dp9t8juOEAHzv27RXbAADp7uwKX6xEyBtCXST9XrjdfI7vzD11aaLfc34ItvUNn3UaGsmu9Q7fV1icq/9A+SqEVWqEVWqEVWqEVWqEVWqEVWqFJ6gvFNw4Rzz/m7AAAAABJRU5ErkJggg==",
+        "occupier": "ဒုတိယမြန်မာ့တပ်မတော်"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4999.875,
+          1711
         ]
       },
       "properties": {
@@ -31454,37 +31097,7 @@
         "type": "Point",
         "coordinates": [
           4996.125,
-          1685.25
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4CAMAAABsOSjPAAAATlBMVEU0sjPwYW39/fpsx2uc2ZvE6cT4+fX////qKDn+ywD+4WlJukj96+32oKj/88D4t73tSljrNETo9uj+0R70h5H83d98zXuJ0oj6x8z+zQyJ0L00AAACdElEQVR42u2Z65KCMAxGSwS6K/er8v4vurqrKxeVspvQZCb5SWE8k55+tGI+BZZRaIVWaIVWaIVWaIVWaIVWaIVWaFnQTSMPejgeBXY6z8VBD421jbhOH609iut0bm0uDfpiB50fhs4OOj+ooPMrdC4L+tsOMj8MoR1kfhhCO8j8oIFu4AcaBkHQNzuo/DCUdlD5QQI9wB2axg9DageRH4bUDgu5GGh4dDoehECP7LBA4YchqGgEbSMjo+Jxp2MZzAc7qYMI6IkdFiJxdlzzQ6AdMvwI59ChAOh6Dl0LtEOCH+ES2r8fffi+YAkNK4/0e8fw/2ufIO9jTOa438eQBK/ZUCd7eZ2EWNC7rtEDiiL1zmGIoUiUcAhkxmr8KlJLUgMhssGDGvc6wR+ZTz5f6knNO5zx1iODDfbWyI5Z7FS3RXaUGBa15a3O6OzlGtk1q0OMmyJc1NgQ2X7D2flEy/98e1qDZtjo9Y0Iwz/1kvV1mMizw9penh0c/XDYpAI35t7l5dLLs4PfRwGnI0ws0A48Pz5QqnCDLnB+DQn6yekly574wQk6WOClweVqurgcMIJe2FFU18vVeZ4fBSPo+afD9j7QxhR+GAI7uvIxVHYEfqBAT5dcVo3HqtkgG+h0tgJn8zAZ5gI9tuNcLsfLM7IfBtUOeDH7GaD6YTDtSF+28aFIygM6mIbz86oKRD8Mmh2PcH5e98jOWEB/zzx05dp9t8juOEAHzv27RXbAADp7uwKX6xEyBtCXST9XrjdfI7vzD11aaLfc34ItvUNn3UaGsmu9Q7fV1icq/9A+SqEVWqEVWqEVWqEVWqEVWqEVWqFJ6gvFNw4Rzz/m7AAAAABJRU5ErkJggg==",
-        "occupier": "ဒုတိယမြန်မာ့တပ်မတော်"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5019.875,
-          1678.625
-        ]
-      },
-      "properties": {
-        "type": "marker",
-        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4CAMAAABsOSjPAAAATlBMVEU0sjPwYW39/fpsx2uc2ZvE6cT4+fX////qKDn+ywD+4WlJukj96+32oKj/88D4t73tSljrNETo9uj+0R70h5H83d98zXuJ0oj6x8z+zQyJ0L00AAACdElEQVR42u2Z65KCMAxGSwS6K/er8v4vurqrKxeVspvQZCb5SWE8k55+tGI+BZZRaIVWaIVWaIVWaIVWaIVWaIVWaFnQTSMPejgeBXY6z8VBD421jbhOH609iut0bm0uDfpiB50fhs4OOj+ooPMrdC4L+tsOMj8MoR1kfhhCO8j8oIFu4AcaBkHQNzuo/DCUdlD5QQI9wB2axg9DageRH4bUDgu5GGh4dDoehECP7LBA4YchqGgEbSMjo+Jxp2MZzAc7qYMI6IkdFiJxdlzzQ6AdMvwI59ChAOh6Dl0LtEOCH+ES2r8fffi+YAkNK4/0e8fw/2ufIO9jTOa438eQBK/ZUCd7eZ2EWNC7rtEDiiL1zmGIoUiUcAhkxmr8KlJLUgMhssGDGvc6wR+ZTz5f6knNO5zx1iODDfbWyI5Z7FS3RXaUGBa15a3O6OzlGtk1q0OMmyJc1NgQ2X7D2flEy/98e1qDZtjo9Y0Iwz/1kvV1mMizw9penh0c/XDYpAI35t7l5dLLs4PfRwGnI0ws0A48Pz5QqnCDLnB+DQn6yekly574wQk6WOClweVqurgcMIJe2FFU18vVeZ4fBSPo+afD9j7QxhR+GAI7uvIxVHYEfqBAT5dcVo3HqtkgG+h0tgJn8zAZ5gI9tuNcLsfLM7IfBtUOeDH7GaD6YTDtSF+28aFIygM6mIbz86oKRD8Mmh2PcH5e98jOWEB/zzx05dp9t8juOEAHzv27RXbAADp7uwKX6xEyBtCXST9XrjdfI7vzD11aaLfc34ItvUNn3UaGsmu9Q7fV1icq/9A+SqEVWqEVWqEVWqEVWqEVWqEVWqFJ6gvFNw4Rzz/m7AAAAABJRU5ErkJggg==",
-        "occupier": "ဒုတိယမြန်မာ့တပ်မတော်"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5023.75,
-          1663.75
+          1700
         ]
       },
       "properties": {
@@ -31528,14 +31141,731 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4992.625,
-          1680
+          4973.875,
+          1677.875
         ]
       },
       "properties": {
         "type": "marker",
         "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4CAMAAABsOSjPAAAATlBMVEU0sjPwYW39/fpsx2uc2ZvE6cT4+fX////qKDn+ywD+4WlJukj96+32oKj/88D4t73tSljrNETo9uj+0R70h5H83d98zXuJ0oj6x8z+zQyJ0L00AAACdElEQVR42u2Z65KCMAxGSwS6K/er8v4vurqrKxeVspvQZCb5SWE8k55+tGI+BZZRaIVWaIVWaIVWaIVWaIVWaIVWaFnQTSMPejgeBXY6z8VBD421jbhOH609iut0bm0uDfpiB50fhs4OOj+ooPMrdC4L+tsOMj8MoR1kfhhCO8j8oIFu4AcaBkHQNzuo/DCUdlD5QQI9wB2axg9DageRH4bUDgu5GGh4dDoehECP7LBA4YchqGgEbSMjo+Jxp2MZzAc7qYMI6IkdFiJxdlzzQ6AdMvwI59ChAOh6Dl0LtEOCH+ES2r8fffi+YAkNK4/0e8fw/2ufIO9jTOa438eQBK/ZUCd7eZ2EWNC7rtEDiiL1zmGIoUiUcAhkxmr8KlJLUgMhssGDGvc6wR+ZTz5f6knNO5zx1iODDfbWyI5Z7FS3RXaUGBa15a3O6OzlGtk1q0OMmyJc1NgQ2X7D2flEy/98e1qDZtjo9Y0Iwz/1kvV1mMizw9penh0c/XDYpAI35t7l5dLLs4PfRwGnI0ws0A48Pz5QqnCDLnB+DQn6yekly574wQk6WOClweVqurgcMIJe2FFU18vVeZ4fBSPo+afD9j7QxhR+GAI7uvIxVHYEfqBAT5dcVo3HqtkgG+h0tgJn8zAZ5gI9tuNcLsfLM7IfBtUOeDH7GaD6YTDtSF+28aFIygM6mIbz86oKRD8Mmh2PcH5e98jOWEB/zzx05dp9t8juOEAHzv27RXbAADp7uwKX6xEyBtCXST9XrjdfI7vzD11aaLfc34ItvUNn3UaGsmu9Q7fV1icq/9A+SqEVWqEVWqEVWqEVWqEVWqEVWqFJ6gvFNw4Rzz/m7AAAAABJRU5ErkJggg==",
         "occupier": "ဒုတိယမြန်မာ့တပ်မတော်"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Територія України (Тимчасово Окуповано зомбі-вірусом)",
+        "occupier": "☣",
+        "color": "#1a1a1a",
+        "type": "polygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              3813.9375,
+              2163.4375
+            ],
+            [
+              3815.5,
+              2163.875
+            ],
+            [
+              3817.75,
+              2164.9375
+            ],
+            [
+              3820.75,
+              2164.9375
+            ],
+            [
+              3821,
+              2166.6875
+            ],
+            [
+              3819.625,
+              2168.3125
+            ],
+            [
+              3819,
+              2169.5
+            ],
+            [
+              3816.6875,
+              2168.625
+            ],
+            [
+              3815.0625,
+              2168.1875
+            ],
+            [
+              3814.375,
+              2167.25
+            ],
+            [
+              3812.625,
+              2166.125
+            ],
+            [
+              3812.625,
+              2164.6875
+            ],
+            [
+              3813.9375,
+              2163.4375
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5051,
+          1740
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5053,
+          1741
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5066,
+          1744.5
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5075,
+          1744.5
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5074.5,
+          1735.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5077.5,
+          1734.5
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5079,
+          1727.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5079,
+          1721
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5078,
+          1715.5
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5074.5,
+          1710.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5096.25,
+          1736.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5101.5,
+          1740
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5113.5,
+          1742.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5109.75,
+          1737
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5094.25,
+          1731.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5086.25,
+          1728.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5083.5,
+          1734.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5091.25,
+          1741.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5110.5,
+          1746.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4BAMAAACpycXOAAAALVBMVEXuHCX//wD3jRL6tgvyVBvvLSH8zgfxPh7+7wLuIiP2ehX4nQ//+AD0Yxn93gUeaLoeAAAB4UlEQVQYGe3BPWtTUQDH4R95aXoTMvy9GkMbS9sPIO3QpSikFEUc5IpFnKQZpJvEJVvBgmBBhzsIOjgki4g4NC7iWMRBRUhnl4IOgvgdDJe+3HvHnHME4TwPnmckwpVaGycq7xl0cWO4qgg37qiFIwXpaxdLKl1S7kr6gyWFeU4FHc1dwZapTU7VVtdDrHlwnrTyE6xZOEPGG6zpNMh4ji0VKSKvjA1VqU9eYQQxpqakTfLq33gVY+qmdI68UuviDMYG0gx5ZekQYx2pQU7wWuozuepiQmOLiT7Hrkl6zOTKy8oII44F25fU7DK56r5SWn1OBQv3rn/AQE8pW6QN2hgJhjoxG5N2FUOlHR1ptsnYwNQtHVnBtuCtEl+wr6jEEva9VOIz9h0ocQH7lpUIsW9fiSY59RhDdUk/b0gakVUcYagohVF5Wdoja3oJQy/U6kN1Xw/JWvuEoQNtMdbTWdJ693daT7cwMpyNGQuGs6RVOlIYY2S3TaK0S0ZNmsfIsxWO3G6TVpfmMVLhRJe0YmN4iBvTe6VHuLENG/xXghhXihFOlEYs4Ebw610LR9bUjHCjJn0c4cSU1LyME0PNtXGi+vt7iBtlgh84s44zFTzP8zzP8zzP8zzP8zzP87x/4S8L+lO1OQTQKwAAAABJRU5ErkJggg==",
+        "occupier": "中國第二軍"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4990.25,
+          1676.125
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4CAMAAABsOSjPAAAATlBMVEU0sjPwYW39/fpsx2uc2ZvE6cT4+fX////qKDn+ywD+4WlJukj96+32oKj/88D4t73tSljrNETo9uj+0R70h5H83d98zXuJ0oj6x8z+zQyJ0L00AAACdElEQVR42u2Z65KCMAxGSwS6K/er8v4vurqrKxeVspvQZCb5SWE8k55+tGI+BZZRaIVWaIVWaIVWaIVWaIVWaIVWaFnQTSMPejgeBXY6z8VBD421jbhOH609iut0bm0uDfpiB50fhs4OOj+ooPMrdC4L+tsOMj8MoR1kfhhCO8j8oIFu4AcaBkHQNzuo/DCUdlD5QQI9wB2axg9DageRH4bUDgu5GGh4dDoehECP7LBA4YchqGgEbSMjo+Jxp2MZzAc7qYMI6IkdFiJxdlzzQ6AdMvwI59ChAOh6Dl0LtEOCH+ES2r8fffi+YAkNK4/0e8fw/2ufIO9jTOa438eQBK/ZUCd7eZ2EWNC7rtEDiiL1zmGIoUiUcAhkxmr8KlJLUgMhssGDGvc6wR+ZTz5f6knNO5zx1iODDfbWyI5Z7FS3RXaUGBa15a3O6OzlGtk1q0OMmyJc1NgQ2X7D2flEy/98e1qDZtjo9Y0Iwz/1kvV1mMizw9penh0c/XDYpAI35t7l5dLLs4PfRwGnI0ws0A48Pz5QqnCDLnB+DQn6yekly574wQk6WOClweVqurgcMIJe2FFU18vVeZ4fBSPo+afD9j7QxhR+GAI7uvIxVHYEfqBAT5dcVo3HqtkgG+h0tgJn8zAZ5gI9tuNcLsfLM7IfBtUOeDH7GaD6YTDtSF+28aFIygM6mIbz86oKRD8Mmh2PcH5e98jOWEB/zzx05dp9t8juOEAHzv27RXbAADp7uwKX6xEyBtCXST9XrjdfI7vzD11aaLfc34ItvUNn3UaGsmu9Q7fV1icq/9A+SqEVWqEVWqEVWqEVWqEVWqEVWqFJ6gvFNw4Rzz/m7AAAAABJRU5ErkJggg==",
+        "occupier": "ဒုတိယမြန်မာ့တပ်မတော်"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4974.25,
+          1664.75
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4CAMAAABsOSjPAAAATlBMVEU0sjPwYW39/fpsx2uc2ZvE6cT4+fX////qKDn+ywD+4WlJukj96+32oKj/88D4t73tSljrNETo9uj+0R70h5H83d98zXuJ0oj6x8z+zQyJ0L00AAACdElEQVR42u2Z65KCMAxGSwS6K/er8v4vurqrKxeVspvQZCb5SWE8k55+tGI+BZZRaIVWaIVWaIVWaIVWaIVWaIVWaFnQTSMPejgeBXY6z8VBD421jbhOH609iut0bm0uDfpiB50fhs4OOj+ooPMrdC4L+tsOMj8MoR1kfhhCO8j8oIFu4AcaBkHQNzuo/DCUdlD5QQI9wB2axg9DageRH4bUDgu5GGh4dDoehECP7LBA4YchqGgEbSMjo+Jxp2MZzAc7qYMI6IkdFiJxdlzzQ6AdMvwI59ChAOh6Dl0LtEOCH+ES2r8fffi+YAkNK4/0e8fw/2ufIO9jTOa438eQBK/ZUCd7eZ2EWNC7rtEDiiL1zmGIoUiUcAhkxmr8KlJLUgMhssGDGvc6wR+ZTz5f6knNO5zx1iODDfbWyI5Z7FS3RXaUGBa15a3O6OzlGtk1q0OMmyJc1NgQ2X7D2flEy/98e1qDZtjo9Y0Iwz/1kvV1mMizw9penh0c/XDYpAI35t7l5dLLs4PfRwGnI0ws0A48Pz5QqnCDLnB+DQn6yekly574wQk6WOClweVqurgcMIJe2FFU18vVeZ4fBSPo+afD9j7QxhR+GAI7uvIxVHYEfqBAT5dcVo3HqtkgG+h0tgJn8zAZ5gI9tuNcLsfLM7IfBtUOeDH7GaD6YTDtSF+28aFIygM6mIbz86oKRD8Mmh2PcH5e98jOWEB/zzx05dp9t8juOEAHzv27RXbAADp7uwKX6xEyBtCXST9XrjdfI7vzD11aaLfc34ItvUNn3UaGsmu9Q7fV1icq/9A+SqEVWqEVWqEVWqEVWqEVWqEVWqFJ6gvFNw4Rzz/m7AAAAABJRU5ErkJggg==",
+        "occupier": "ဒုတိယမြန်မာ့တပ်မတော်"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Територія Південної Америки (Тимчасово окуповано зомбі-вірусом)",
+        "occupier": "☣",
+        "color": "#1a1a1a",
+        "type": "polygon"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              1586.006057,
+              1265.74867
+            ],
+            [
+              1609.506057,
+              1260.74867
+            ],
+            [
+              1636.006057,
+              1260.49867
+            ],
+            [
+              1638.756057,
+              1272.24867
+            ],
+            [
+              1630.006057,
+              1290.74867
+            ],
+            [
+              1612.256057,
+              1303.74867
+            ],
+            [
+              1595.006057,
+              1309.74867
+            ],
+            [
+              1578.506057,
+              1303.74867
+            ],
+            [
+              1571.256057,
+              1292.74867
+            ],
+            [
+              1573.506057,
+              1274.74867
+            ],
+            [
+              1582.506057,
+              1266.49867
+            ],
+            [
+              1586.006057,
+              1265.74867
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3401.5,
+          2144.5
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4AgMAAAAmiTBuAAAACVBMVEXOKzcAkkb///8vuYFFAAAALklEQVRYw+3KoQEAAAgDIJ/0Sa80z2iGTHWaVIdt27Zt27Zt27Zt27Zt27b93Av7DwFiQiXSNAAAAABJRU5ErkJggg==",
+        "occupier": "Seconda Armata Italiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3396.625,
+          2144.5
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4AgMAAAAmiTBuAAAACVBMVEXOKzcAkkb///8vuYFFAAAALklEQVRYw+3KoQEAAAgDIJ/0Sa80z2iGTHWaVIdt27Zt27Zt27Zt27Zt27b93Av7DwFiQiXSNAAAAABJRU5ErkJggg==",
+        "occupier": "Seconda Armata Italiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3406.75,
+          2145.625
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4AgMAAAAmiTBuAAAACVBMVEXOKzcAkkb///8vuYFFAAAALklEQVRYw+3KoQEAAAgDIJ/0Sa80z2iGTHWaVIdt27Zt27Zt27Zt27Zt27b93Av7DwFiQiXSNAAAAABJRU5ErkJggg==",
+        "occupier": "Seconda Armata Italiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3411,
+          2144.5
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4AgMAAAAmiTBuAAAACVBMVEXOKzcAkkb///8vuYFFAAAALklEQVRYw+3KoQEAAAgDIJ/0Sa80z2iGTHWaVIdt27Zt27Zt27Zt27Zt27b93Av7DwFiQiXSNAAAAABJRU5ErkJggg==",
+        "occupier": "Seconda Armata Italiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3415.625,
+          2146.375
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4AgMAAAAmiTBuAAAACVBMVEXOKzcAkkb///8vuYFFAAAALklEQVRYw+3KoQEAAAgDIJ/0Sa80z2iGTHWaVIdt27Zt27Zt27Zt27Zt27b93Av7DwFiQiXSNAAAAABJRU5ErkJggg==",
+        "occupier": "Seconda Armata Italiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3417.375,
+          2151
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4AgMAAAAmiTBuAAAACVBMVEXOKzcAkkb///8vuYFFAAAALklEQVRYw+3KoQEAAAgDIJ/0Sa80z2iGTHWaVIdt27Zt27Zt27Zt27Zt27b93Av7DwFiQiXSNAAAAABJRU5ErkJggg==",
+        "occupier": "Seconda Armata Italiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3405.875,
+          2155.125
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4AgMAAAAmiTBuAAAACVBMVEXOKzcAkkb///8vuYFFAAAALklEQVRYw+3KoQEAAAgDIJ/0Sa80z2iGTHWaVIdt27Zt27Zt27Zt27Zt27b93Av7DwFiQiXSNAAAAABJRU5ErkJggg==",
+        "occupier": "Seconda Armata Italiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3396.75,
+          2155.125
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4AgMAAAAmiTBuAAAACVBMVEXOKzcAkkb///8vuYFFAAAALklEQVRYw+3KoQEAAAgDIJ/0Sa80z2iGTHWaVIdt27Zt27Zt27Zt27Zt27b93Av7DwFiQiXSNAAAAABJRU5ErkJggg==",
+        "occupier": "Seconda Armata Italiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3391.625,
+          2155.125
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4AgMAAAAmiTBuAAAACVBMVEXOKzcAkkb///8vuYFFAAAALklEQVRYw+3KoQEAAAgDIJ/0Sa80z2iGTHWaVIdt27Zt27Zt27Zt27Zt27b93Av7DwFiQiXSNAAAAABJRU5ErkJggg==",
+        "occupier": "Seconda Armata Italiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3409.5,
+          2154
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4AgMAAAAmiTBuAAAACVBMVEXOKzcAkkb///8vuYFFAAAALklEQVRYw+3KoQEAAAgDIJ/0Sa80z2iGTHWaVIdt27Zt27Zt27Zt27Zt27b93Av7DwFiQiXSNAAAAABJRU5ErkJggg==",
+        "occupier": "Seconda Armata Italiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3413,
+          2154
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4AgMAAAAmiTBuAAAACVBMVEXOKzcAkkb///8vuYFFAAAALklEQVRYw+3KoQEAAAgDIJ/0Sa80z2iGTHWaVIdt27Zt27Zt27Zt27Zt27b93Av7DwFiQiXSNAAAAABJRU5ErkJggg==",
+        "occupier": "Seconda Armata Italiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3389.375,
+          2157.75
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4AgMAAAAmiTBuAAAACVBMVEXOKzcAkkb///8vuYFFAAAALklEQVRYw+3KoQEAAAgDIJ/0Sa80z2iGTHWaVIdt27Zt27Zt27Zt27Zt27b93Av7DwFiQiXSNAAAAABJRU5ErkJggg==",
+        "occupier": "Seconda Armata Italiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3415.25,
+          2143.125
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4AgMAAAAmiTBuAAAACVBMVEXOKzcAkkb///8vuYFFAAAALklEQVRYw+3KoQEAAAgDIJ/0Sa80z2iGTHWaVIdt27Zt27Zt27Zt27Zt27b93Av7DwFiQiXSNAAAAABJRU5ErkJggg==",
+        "occupier": "Seconda Armata Italiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3421.5,
+          2138.25
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4AgMAAAAmiTBuAAAACVBMVEXOKzcAkkb///8vuYFFAAAALklEQVRYw+3KoQEAAAgDIJ/0Sa80z2iGTHWaVIdt27Zt27Zt27Zt27Zt27b93Av7DwFiQiXSNAAAAABJRU5ErkJggg==",
+        "occupier": "Seconda Armata Italiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3421.9375,
+          2138
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4AgMAAAAmiTBuAAAACVBMVEXOKzcAkkb///8vuYFFAAAALklEQVRYw+3KoQEAAAgDIJ/0Sa80z2iGTHWaVIdt27Zt27Zt27Zt27Zt27b93Av7DwFiQiXSNAAAAABJRU5ErkJggg==",
+        "occupier": "Seconda Armata Italiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3418.5625,
+          2145.4375
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4AgMAAAAmiTBuAAAACVBMVEXOKzcAkkb///8vuYFFAAAALklEQVRYw+3KoQEAAAgDIJ/0Sa80z2iGTHWaVIdt27Zt27Zt27Zt27Zt27b93Av7DwFiQiXSNAAAAABJRU5ErkJggg==",
+        "occupier": "Seconda Armata Italiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3419.0625,
+          2141.1875
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4AgMAAAAmiTBuAAAACVBMVEXOKzcAkkb///8vuYFFAAAALklEQVRYw+3KoQEAAAgDIJ/0Sa80z2iGTHWaVIdt27Zt27Zt27Zt27Zt27b93Av7DwFiQiXSNAAAAABJRU5ErkJggg==",
+        "occupier": "Seconda Armata Italiana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3413.4375,
+          2140.125
+        ]
+      },
+      "properties": {
+        "type": "marker",
+        "icon": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALQAAAB4AgMAAAAmiTBuAAAACVBMVEXOKzcAkkb///8vuYFFAAAALklEQVRYw+3KoQEAAAgDIJ/0Sa80z2iGTHWaVIdt27Zt27Zt27Zt27Zt27b93Av7DwFiQiXSNAAAAABJRU5ErkJggg==",
+        "occupier": "Seconda Armata Italiana"
       }
     }
   ]
